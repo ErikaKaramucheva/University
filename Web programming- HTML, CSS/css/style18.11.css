@@ -1,0 +1,31 @@
+*{
+	box-sizing: border-box;
+}
+.focus{
+	overflow: visible;
+	hright: 108px;
+}
+.focusd{
+margin:  18px 0 17px 0;
+display: inline-block;
+height: 71px;
+overflow: hidden;
+font-size: 1.2em;
+font-weight: bold;
+line-height: 14px;
+
+
+}
+.focus a{
+color: #080808;
+text-decoration: none;
+}
+.focus .stats{
+	display: inline;
+}
+.focusd .stats a.com{
+	display: inline-block;
+	padding: 0 4px 3px 20px;
+	line-height: 15px;
+	background: url("") no repeat;
+}

@@ -1,0 +1,53 @@
+.container {
+  max-width: 960px;
+}
+
+/*
+ * Custom translucent site header
+ */
+
+.site-header {
+  background-color: rgba(0, 0, 0, .85);
+  -webkit-backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(20px);
+}
+.site-header a {
+  color: #8e8e8e;
+  transition: color .15s ease-in-out;
+  margin-right: 30px;
+  font-size: 18PX;
+}
+.site-header nav a img{
+  width: 35px;
+  border-radius: 50%; /*round img*/
+}
+.site-header a:hover {
+  color: #ff0000;
+  text-decoration: none;
+}
+
+
+main .p{
+  background-image: url("img/toyotaa.png");
+}
+main .p p,
+main .p h1,
+main .p .btn{
+  color: #ffffff;
+}
+main h2{
+  text-align: center;
+}
+.display-5 a{
+  font-size: 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.flex-equal > * {
+  flex: 1;
+}
+.container .row div img{
+  width: 50px;
+}
+

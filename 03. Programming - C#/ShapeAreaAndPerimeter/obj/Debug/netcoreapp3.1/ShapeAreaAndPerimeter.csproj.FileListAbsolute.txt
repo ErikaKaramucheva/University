@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\ShapeAreaAndPerimeter\bin\Debug\netcoreapp3.1\ShapeAreaAndPerimeter.exe
+C:\Users\user\source\repos\ShapeAreaAndPerimeter\bin\Debug\netcoreapp3.1\ShapeAreaAndPerimeter.deps.json
+C:\Users\user\source\repos\ShapeAreaAndPerimeter\bin\Debug\netcoreapp3.1\ShapeAreaAndPerimeter.runtimeconfig.json
+C:\Users\user\source\repos\ShapeAreaAndPerimeter\bin\Debug\netcoreapp3.1\ShapeAreaAndPerimeter.runtimeconfig.dev.json
+C:\Users\user\source\repos\ShapeAreaAndPerimeter\bin\Debug\netcoreapp3.1\ShapeAreaAndPerimeter.dll
+C:\Users\user\source\repos\ShapeAreaAndPerimeter\bin\Debug\netcoreapp3.1\ShapeAreaAndPerimeter.pdb
+C:\Users\user\source\repos\ShapeAreaAndPerimeter\obj\Debug\netcoreapp3.1\ShapeAreaAndPerimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ShapeAreaAndPerimeter\obj\Debug\netcoreapp3.1\ShapeAreaAndPerimeter.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ShapeAreaAndPerimeter\obj\Debug\netcoreapp3.1\ShapeAreaAndPerimeter.AssemblyInfo.cs
+C:\Users\user\source\repos\ShapeAreaAndPerimeter\obj\Debug\netcoreapp3.1\ShapeAreaAndPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ShapeAreaAndPerimeter\obj\Debug\netcoreapp3.1\ShapeAreaAndPerimeter.dll
+C:\Users\user\source\repos\ShapeAreaAndPerimeter\obj\Debug\netcoreapp3.1\ShapeAreaAndPerimeter.pdb
+C:\Users\user\source\repos\ShapeAreaAndPerimeter\obj\Debug\netcoreapp3.1\ShapeAreaAndPerimeter.genruntimeconfig.cache

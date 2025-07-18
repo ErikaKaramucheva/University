@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Example6ASDHomework\bin\Debug\netcoreapp3.1\Example6ASDHomework.exe
+C:\Users\user\source\repos\Example6ASDHomework\bin\Debug\netcoreapp3.1\Example6ASDHomework.deps.json
+C:\Users\user\source\repos\Example6ASDHomework\bin\Debug\netcoreapp3.1\Example6ASDHomework.runtimeconfig.json
+C:\Users\user\source\repos\Example6ASDHomework\bin\Debug\netcoreapp3.1\Example6ASDHomework.runtimeconfig.dev.json
+C:\Users\user\source\repos\Example6ASDHomework\bin\Debug\netcoreapp3.1\Example6ASDHomework.dll
+C:\Users\user\source\repos\Example6ASDHomework\bin\Debug\netcoreapp3.1\Example6ASDHomework.pdb
+C:\Users\user\source\repos\Example6ASDHomework\obj\Debug\netcoreapp3.1\Example6ASDHomework.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Example6ASDHomework\obj\Debug\netcoreapp3.1\Example6ASDHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Example6ASDHomework\obj\Debug\netcoreapp3.1\Example6ASDHomework.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Example6ASDHomework\obj\Debug\netcoreapp3.1\Example6ASDHomework.AssemblyInfo.cs
+C:\Users\user\source\repos\Example6ASDHomework\obj\Debug\netcoreapp3.1\Example6ASDHomework.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Example6ASDHomework\obj\Debug\netcoreapp3.1\Example6ASDHomework.dll
+C:\Users\user\source\repos\Example6ASDHomework\obj\Debug\netcoreapp3.1\Example6ASDHomework.pdb
+C:\Users\user\source\repos\Example6ASDHomework\obj\Debug\netcoreapp3.1\Example6ASDHomework.genruntimeconfig.cache

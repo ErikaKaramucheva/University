@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ADSHomeworks\bin\Debug\net5.0\ADSHomeworks.exe
+C:\Users\user\source\repos\ADSHomeworks\bin\Debug\net5.0\ADSHomeworks.deps.json
+C:\Users\user\source\repos\ADSHomeworks\bin\Debug\net5.0\ADSHomeworks.runtimeconfig.json
+C:\Users\user\source\repos\ADSHomeworks\bin\Debug\net5.0\ADSHomeworks.runtimeconfig.dev.json
+C:\Users\user\source\repos\ADSHomeworks\bin\Debug\net5.0\ADSHomeworks.dll
+C:\Users\user\source\repos\ADSHomeworks\bin\Debug\net5.0\ref\ADSHomeworks.dll
+C:\Users\user\source\repos\ADSHomeworks\bin\Debug\net5.0\ADSHomeworks.pdb
+C:\Users\user\source\repos\ADSHomeworks\obj\Debug\net5.0\ADSHomeworks.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ADSHomeworks\obj\Debug\net5.0\ADSHomeworks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ADSHomeworks\obj\Debug\net5.0\ADSHomeworks.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ADSHomeworks\obj\Debug\net5.0\ADSHomeworks.AssemblyInfo.cs
+C:\Users\user\source\repos\ADSHomeworks\obj\Debug\net5.0\ADSHomeworks.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ADSHomeworks\obj\Debug\net5.0\ADSHomeworks.dll
+C:\Users\user\source\repos\ADSHomeworks\obj\Debug\net5.0\ref\ADSHomeworks.dll
+C:\Users\user\source\repos\ADSHomeworks\obj\Debug\net5.0\ADSHomeworks.pdb
+C:\Users\user\source\repos\ADSHomeworks\obj\Debug\net5.0\ADSHomeworks.genruntimeconfig.cache

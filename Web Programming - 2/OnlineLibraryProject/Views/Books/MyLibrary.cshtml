@@ -1,0 +1,21 @@
+﻿@using OnlineLibraryProject.ViewModels;
+@using static OnlineLibraryProject.Entities.Notifications;
+@model OnlineLibraryProject.ViewModels.AllBookVM;
+
+@{ ViewBag.Title = "Моята библиотека"; }
+
+@if (TempData.ContainsKey(SuccessfullyAddedBookKey))
+{
+<div class="alert alert-success text-center" role="alert">
+    @TempData[SuccessfullyAddedBookKey]
+</div>}
+@if (TempData.ContainsKey(SuccessfullyAddedTransactionKey))
+{
+<div class="alert alert-success text-center" role="alert">
+    @TempData[SuccessfullyAddedTransactionKey]
+</div>}
+
+
+
+
+<partial name="_BooksListingPartial" model="@Model" />

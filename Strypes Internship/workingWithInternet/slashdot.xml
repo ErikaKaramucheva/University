@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:admin="http://webns.net/mvcb/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+>
+
+<channel rdf:about="https://slashdot.org/">
+<title>Slashdot</title>
+<link>https://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2016, SlashdotMedia. All Rights Reserved.</dc:rights>
+<dc:date>2022-10-31T17:31:15+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://news.slashdot.org/story/22/10/31/1713258/tusimple-fires-its-ceo-xiaodi-hou-amid-probe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/22/10/31/1635212/ftc-accuses-ed-tech-firm-chegg-of-careless-data-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/22/10/31/1459247/exhibit-aims-to-present-ai-images-as-real-art?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://slashdot.org/story/22/10/31/1451244/hong-kong-to-explore-legalization-of-retail-crypto-trades-in-reversal-of-previous-proposal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://tech.slashdot.org/story/22/10/31/1447218/india-central-bank-to-start-pilot-of-digital-rupee-tomorrow?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/22/10/31/143214/white-house-invites-dozens-of-nations-for-ransomware-summit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/22/10/31/0148233/can-technology-help-us-talk-to-animals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/22/10/31/028253/behavior-of-star-clusters-challenges-newtons-laws-of-gravity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://developers.slashdot.org/story/22/10/31/0443216/python-is-getting-faster-how-a-team-at-microsoft-is-helping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://apple.slashdot.org/story/22/10/31/0254226/apples-100-million-small-developer-assistance-fund-surprises-developers-with-payouts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/22/10/30/2348221/science-has-a-nasty-photoshopping-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://news.slashdot.org/story/22/10/30/2238221/can-talking-to-strangers-make-us-smarter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://hardware.slashdot.org/story/22/10/30/2052219/fires-from-exploding-e-bike-batteries-nearly-doubled-this-year-in-new-york-city?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://it.slashdot.org/story/22/10/30/203207/how-privacy-enhancing-technologies-are-fulfilling-cryptographys-potential?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="https://science.slashdot.org/story/22/10/30/1913209/the-world-is-running-out-of-helium-why-doctors-are-worried?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="https://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="https://slashdot.org/search.pl" />
+</channel>
+<image rdf:about="https://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>https://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>https://slashdot.org/</link>
+</image>
+<item rdf:about="https://news.slashdot.org/story/22/10/31/1713258/tusimple-fires-its-ceo-xiaodi-hou-amid-probe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>TuSimple Fires Its CEO Xiaodi Hou Amid Probe</title>
+<link>https://news.slashdot.org/story/22/10/31/1713258/tusimple-fires-its-ceo-xiaodi-hou-amid-probe?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>TuSimple, a self-driving trucking company, said Monday it had fired its chief executive and co-founder, Xiaodi Hou. From a report: The San Diego-based company said in a news release and securities filing that its board of directors on Sunday had ousted Mr. Hou, who was also the board chairman and chief technology officer. Mr. Hou was fired in connection with a continuing investigation by members of the board, the release said. That review "led the board to conclude that a change of Chief Executive Officer was necessary," the company said in the release. 
+
+The securities filing said that the board's investigation found that TuSimple this year shared confidential information with Hydron, a trucking startup with operations mostly in China and funded by Chinese investors. The filing also said that TuSimple's decision to share the confidential information hadn't been disclosed to the board before TuSimple entered into a business deal with Hydron. TuSimple said it didn't know whether Hydron shared, or publicly disclosed, the confidential information, the securities filing said. WSJ, reporting on Sunday: TuSimple faces federal investigations into whether it improperly financed and transferred technology to a Chinese startup, according to people with knowledge of the matter. 
+
+The people said the concurrent probes by the Federal Bureau of Investigation, Securities and Exchange Commission and Committee on Foreign Investment in the U.S., known as Cfius, are examining TuSimple's relationship with Hydron, a startup that says it is developing autonomous hydrogen-powered trucks and is led by one of TuSimple's co-founders. 
+
+Investigators at the FBI and SEC are looking at whether TuSimple and its executives -- principally Chief Executive Xiaodi Hou -- breached fiduciary duties and securities laws by failing to properly disclose the relationship, the people familiar with the matter said. They are also probing whether TuSimple shared with Hydron intellectual property developed in the U.S. and whether that action defrauded TuSimple investors by sending valuable technology to an overseas adversary, the people said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=TuSimple+Fires+Its+CEO+Xiaodi+Hou+Amid+Probe%3A+https%3A%2F%2Fbit.ly%2F3fgj79X"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F22%2F10%2F31%2F1713258%2Ftusimple-fires-its-ceo-xiaodi-hou-amid-probe%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/22/10/31/1713258/tusimple-fires-its-ceo-xiaodi-hou-amid-probe?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=22308717&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2022-10-31T17:20:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>tussle-continues</slash:department>
+<slash:section>news</slash:section>
+<slash:hit_parade>0,0,0,0,0,0,0</slash:hit_parade>
+</item>
+<item rdf:about="https://news.slashdot.org/story/22/10/31/1635212/ftc-accuses-ed-tech-firm-chegg-of-careless-data-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>FTC Accuses Ed Tech Firm Chegg of 'Careless' Data Security</title>
+<link>https://news.slashdot.org/story/22/10/31/1635212/ftc-accuses-ed-tech-firm-chegg-of-careless-data-security?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>The Federal Trade Commission on Monday cracked down on Chegg, an education technology firm based in Santa Clara, Calif., saying the company's "careless" approach to cybersecurity had exposed the personal details of tens of millions of users. From a report: In a legal complaint, filed on Monday morning, regulators accused Chegg of numerous data security lapses dating to 2017. Among other problems, the agency said, Chegg had issued root login credentials, essentially an all-access pass to certain databases, to multiple employees and outside contractors. Those credentials enabled many people to look at user account data, which the company kept on Amazon Web Services' online storage system. 
+
+As a result, the agency said, a former Chegg contractor was able to use company-issued credentials to steal the names, email addresses and passwords of about 40 million users in 2018. In certain cases, sensitive details on students' religion, sexual orientation, disabilities and parents' income were also taken. Some of the data was later found for sale online. Chegg's popular homework help app is used regularly by millions of high school and college students. To settle the F.T.C.'s charges, the agency said Chegg had agreed to adopt a comprehensive data security program.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=FTC+Accuses+Ed+Tech+Firm+Chegg+of+'Careless'+Data+Security%3A+https%3A%2F%2Fbit.ly%2F3Fv3MwI"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F22%2F10%2F31%2F1635212%2Fftc-accuses-ed-tech-firm-chegg-of-careless-data-security%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/22/10/31/1635212/ftc-accuses-ed-tech-firm-chegg-of-careless-data-security?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=22308613&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2022-10-31T16:40:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>how-about-that</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>12</slash:comments>
+<slash:hit_parade>12,12,11,11,4,0,0</slash:hit_parade>
+</item>
+<item rdf:about="https://tech.slashdot.org/story/22/10/31/1459247/exhibit-aims-to-present-ai-images-as-real-art?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Exhibit Aims To Present AI Images as Real Art</title>
+<link>https://tech.slashdot.org/story/22/10/31/1459247/exhibit-aims-to-present-ai-images-as-real-art?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>A new art exhibition in San Francisco showcases some of the unique ways that artists have begun to incorporate Dall-E 2, GPT-3 and other AI systems into their work -- efforts that go well beyond just typing some text and seeing what pops out. From a report: The exhibit, "Artificial Imagination," comes amid a broad debate over the legal and artistic merits of AI-created art, as well as concerns that more powerful computers could take jobs away from humans. "Artificial Imagination" includes a range of work, from videos to still images and sculpture. While many of the pieces used Dall-E 2 to help generate images, others took a different approach. Alexander Reben, for example, used text generated by GPT-3 and then built his interpretation of the computer's description. The artists and curators said the exhibition, believed to be the first of its kind, is an important recognition that AI art is indeed art.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Exhibit+Aims+To+Present+AI+Images+as+Real+Art%3A+https%3A%2F%2Fbit.ly%2F3SSF7Fw"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F22%2F10%2F31%2F1459247%2Fexhibit-aims-to-present-ai-images-as-real-art%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/22/10/31/1459247/exhibit-aims-to-present-ai-images-as-real-art?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=22308319&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2022-10-31T16:01:00+00:00</dc:date>
+<dc:subject>technology</dc:subject>
+<slash:department>times,-they-are-a-changin'</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>31</slash:comments>
+<slash:hit_parade>31,30,30,30,1,0,0</slash:hit_parade>
+</item>
+<item rdf:about="https://slashdot.org/story/22/10/31/1451244/hong-kong-to-explore-legalization-of-retail-crypto-trades-in-reversal-of-previous-proposal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Hong Kong To Explore Legalization of Retail Crypto Trades in Reversal of Previous Proposal</title>
+<link>https://slashdot.org/story/22/10/31/1451244/hong-kong-to-explore-legalization-of-retail-crypto-trades-in-reversal-of-previous-proposal?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>Hong Kong has proposed allowing retail investors to trade in cryptocurrencies and crypto exchange-traded funds and plans to conduct pilots in NFT issuance and CBDC as it looks to regain its status as a global financial hub. From a report: The city had last year proposed limiting crypto trade to professional investors, a move that saw many crypto entrepreneurs shift base to friendlier jurisdictions such as Dubai and Singapore. Hong Kong will review property rights for tokenized assets and explore legalizing smart contracts "to provide a solid legal foundation for their development," it said. It is also planning to put in place "appropriate regulations" on aspects such as "governance, stabilization and redemption mechanism" of stablecoin. The proposal comes at a time when China has ramped up its efforts to crackdown on crypto transactions and Singapore is exploring a series of stringent guidelines surrounding virtual digital assets.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Hong+Kong+To+Explore+Legalization+of+Retail+Crypto+Trades+in+Reversal+of+Previous+Proposal%3A+https%3A%2F%2Fbit.ly%2F3gTvJ7c"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fslashdot.org%2Fstory%2F22%2F10%2F31%2F1451244%2Fhong-kong-to-explore-legalization-of-retail-crypto-trades-in-reversal-of-previous-proposal%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://slashdot.org/story/22/10/31/1451244/hong-kong-to-explore-legalization-of-retail-crypto-trades-in-reversal-of-previous-proposal?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=22308285&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2022-10-31T15:25:00+00:00</dc:date>
+<dc:subject>bitcoin</dc:subject>
+<slash:department>reclaiming-friendly-status</slash:department>
+<slash:section>slashdot</slash:section>
+<slash:comments>6</slash:comments>
+<slash:hit_parade>6,6,5,4,0,0,0</slash:hit_parade>
+</item>
+<item rdf:about="https://tech.slashdot.org/story/22/10/31/1447218/india-central-bank-to-start-pilot-of-digital-rupee-tomorrow?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>India Central Bank To Start Pilot of Digital Rupee Tomorrow</title>
+<link>https://tech.slashdot.org/story/22/10/31/1447218/india-central-bank-to-start-pilot-of-digital-rupee-tomorrow?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>The Reserve Bank of India (RBI) will launch the pilot for a central-bank-backed digital rupee for the wholesale segment on Nov. 1, it said on Monday, identifying nine banks, including top lender State Bank of India, to participate in the project. From a report: The pilot's use case will be to settle secondary market transactions in government securities, with the e-rupee expected to make the interbank market more efficient, the RBI said in a statement. Settlements in central bank digital currency would reduce transaction costs, the RBI added. Besides SBI, the pilot will include Bank of Baroda, Union Bank of India, HDFC Bank, ICICI Bank, Kotak Mahindra Bank, Yes Bank, IDFC First Bank and HSBC, the RBI said.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=India+Central+Bank+To+Start+Pilot+of+Digital+Rupee+Tomorrow%3A+https%3A%2F%2Fbit.ly%2F3DKgy9g"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Ftech.slashdot.org%2Fstory%2F22%2F10%2F31%2F1447218%2Findia-central-bank-to-start-pilot-of-digital-rupee-tomorrow%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://tech.slashdot.org/story/22/10/31/1447218/india-central-bank-to-start-pilot-of-digital-rupee-tomorrow?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=22308271&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2022-10-31T14:46:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>up-next</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>14</slash:comments>
+<slash:hit_parade>14,11,10,8,0,0,0</slash:hit_parade>
+</item>
+<item rdf:about="https://news.slashdot.org/story/22/10/31/143214/white-house-invites-dozens-of-nations-for-ransomware-summit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>White House Invites Dozens of Nations for Ransomware Summit</title>
+<link>https://news.slashdot.org/story/22/10/31/143214/white-house-invites-dozens-of-nations-for-ransomware-summit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>The White House is bringing together three dozen nations, the European Union and a slew of private-sector companies for a two-day summit starting Monday that looks at how best to combat ransomware attacks. From a report: The second International Counter Ransomware Summit will focus on priorities such as ensuring systems are more resilient to better withstand attacks and disrupt bad actors planning such assaults. A senior Biden administration official cited recent attacks such as one that targeted the Los Angeles school district last month to underscore the urgency of the issue and the summit. The official previewed the event on the condition of anonymity. Among the administration officials planning to participate in the event are FBI Director Christopher Wray, national security adviser Jake Sullivan, Deputy Treasury Secretary Wally Adeyemo and Deputy Secretary of State Wendy Sherman. President Joe Biden is not expected to attend.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=White+House+Invites+Dozens+of+Nations+for+Ransomware+Summit%3A+https%3A%2F%2Fbit.ly%2F3FuHo6y"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F22%2F10%2F31%2F143214%2Fwhite-house-invites-dozens-of-nations-for-ransomware-summit%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/22/10/31/143214/white-house-invites-dozens-of-nations-for-ransomware-summit?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=22308115&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>msmash</dc:creator>
+<dc:date>2022-10-31T14:03:00+00:00</dc:date>
+<dc:subject>security</dc:subject>
+<slash:department>moving-forward</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>16</slash:comments>
+<slash:hit_parade>16,12,9,9,4,2,1</slash:hit_parade>
+</item>
+<item rdf:about="https://news.slashdot.org/story/22/10/31/0148233/can-technology-help-us-talk-to-animals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Can Technology Help Us Talk to Animals?</title>
+<link>https://news.slashdot.org/story/22/10/31/0148233/can-technology-help-us-talk-to-animals?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>"Today, tools like drones, digital recorders, and artificial intelligence are helping us listen to the sounds of nature in unprecedented ways," writes Vox, citing Karen Bakker, author of the new book Sounds of Life: How Digital Technology Is Bringing Us Closer to the Worlds of Animals and Plants. 
+
+But how far will this lead?
+Automated listening posts have been set up in ecosystems around the planet, from rainforests to the depths of the ocean, and miniaturization has allowed scientists to stick microphones onto animals as small as honeybees. "Combined, these digital devices function like a planetary-scale hearing aid: enabling humans to observe and study nature's sounds beyond the limits of our sensory capabilities," Bakker writes. 
+
+All those devices create a ton of data, which would be impossible to go through manually. So researchers in the fields of bioacoustics (which studies sounds made by living organisms) and ecoacoustics (which studies the sounds made by entire ecosystems) are turning to artificial intelligence to sift through the piles of recordings, finding patterns that might help us understand what animals are saying to each other. There are now databases of whale songs and honeybee dances, among others, that Bakker writes could one day turn into "a zoological version of Google Translate." 
+
+In an interview with Vox, the author points out that already "We can use artificial intelligence-enabled robots to speak animal languages and essentially breach the barrier of interspecies communication. Researchers are doing this in a very rudimentary way with honeybees and dolphins and to some extent with elephants. 
+
+"Now, this raises a very serious ethical question..."
+I'll give you one example. A research team in Germany encoded honeybee signals into a robot that they sent into a hive. That robot is able to use the honeybees' waggle dance communication to tell the honeybees to stop moving, and it's able to tell those honeybees where to fly to for a specific nectar source. The next stage in this research is to implant these robots into honeybee hives so the hives accept these robots as members of their community from birth. And then we would have an unprecedented degree of control over the hive; we'll have essentially domesticated that hive in a way we've never done so before. This creates the possibility of exploitive use of animals. And there's a long history of the military use of animals, so that's one path that I think raises a lot of alarm bells.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Can+Technology+Help+Us+Talk+to+Animals%3F%3A+https%3A%2F%2Fbit.ly%2F3NlboUl"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F22%2F10%2F31%2F0148233%2Fcan-technology-help-us-talk-to-animals%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/22/10/31/0148233/can-technology-help-us-talk-to-animals?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=22303287&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2022-10-31T11:34:00+00:00</dc:date>
+<dc:subject>ai</dc:subject>
+<slash:department>and-thanks-for-all-the-fish</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>40</slash:comments>
+<slash:hit_parade>40,33,28,25,10,5,2</slash:hit_parade>
+</item>
+<item rdf:about="https://science.slashdot.org/story/22/10/31/028253/behavior-of-star-clusters-challenges-newtons-laws-of-gravity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Behavior of Star Clusters Challenges Newton's Laws of Gravity</title>
+<link>https://science.slashdot.org/story/22/10/31/028253/behavior-of-star-clusters-challenges-newtons-laws-of-gravity?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>The Jerusalem Post reports that "Certain star clusters do not seem to be following current understandings of Isaac Newton's laws of gravity, according to new research published on Wednesday." (Specifically open star clusters, formed when thousands of stars are born in a gas cloud within a short time period.) 
+
+The researchers examined data on each stars' velocity, direction of motion and age using data from the European Space Agency's Gaia mission that allowed them to count the stars accurately for the very first time. The results?
+
+As the clusters dissolve, the stars accumulate on two "tidal tails:" one pulled behind the cluster and the other pushed forward. "According to Newton's laws of gravity, it's a matter of chance in which of the tails a lost star ends up," explains Dr. Jan Pflamm-Altenburg of the Helmholtz Institute of Radiation and Nuclear Physics at the University of Bonn. "So both tails should contain about the same number of stars. However, in our work we were able to prove for the first time that this is not true: In the clusters we studied, the front tail always contains significantly more stars nearby to the cluster than the rear tail...." 
+
+When the researchers looked at the data, they found that it did not fit Newton's law of gravity and instead fit better with an alternate theory called Modified Newtonian Dynamics (MOND). 
+
+"Put simply, according to MOND, stars can leave a cluster through two different doors," explained Prof. Dr. Pavel Kroupa of the Helmholtz Institute of Radiation and Nuclear Physics. "One leads to the rear tidal tail, the other to the front. However, the first is much narrower than the second &amp;mdash; so it's less likely that a star will leave the cluster through it. Newton's theory of gravity, on the other hand, predicts that both doors should be the same width...." 
+
+The simulations also coincided with the Gaia data in terms of how long the star clusters typically survive, which is much shorter than would be expected according to Newton's laws.... 
+The MOND theory is controversial as modifications to Newton's laws of gravity would have far-reaching consequences for other areas of physics as well, although they would solve many problems facing cosmology. 
+
+Thanks to long-time Slashdot reader schwit1 for submitting the story!&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Behavior+of+Star+Clusters+Challenges+Newton's+Laws+of+Gravity%3A+https%3A%2F%2Fbit.ly%2F3TOZMLO"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F22%2F10%2F31%2F028253%2Fbehavior-of-star-clusters-challenges-newtons-laws-of-gravity%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/22/10/31/028253/behavior-of-star-clusters-challenges-newtons-laws-of-gravity?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=22303313&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2022-10-31T07:34:00+00:00</dc:date>
+<dc:subject>space</dc:subject>
+<slash:department>breaking-the-laws</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>69</slash:comments>
+<slash:hit_parade>69,68,59,56,11,4,4</slash:hit_parade>
+</item>
+<item rdf:about="https://developers.slashdot.org/story/22/10/31/0443216/python-is-getting-faster-how-a-team-at-microsoft-is-helping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Python is Getting Faster.  How a Team at Microsoft is Helping</title>
+<link>https://developers.slashdot.org/story/22/10/31/0443216/python-is-getting-faster-how-a-team-at-microsoft-is-helping?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>It's been one week since Python 	3.11 was released &amp;mdash; and it's "faster than ever!" So says Jay Miller, a developer on Microsoft's six-person "Faster CPython" team (which includes Python creator Guido van Rossum, and offers assistance to other core developers). Miller reports that Python 3.11 "has already seen speedups of 10-60% in some areas of the language," and offers an inside look at team. 
+
+First, how the team came together:
+
+In 2020, Core Developer Mark Shannon drafted an Implementation plan for speeding up CPython (the most common implementation) by five times. This plan proposed a 4-stage process that, as Python's creator Guido van Rossum says, "was an effort that was too much for one volunteer to accomplish". 
+
+"Right from the start, my thought was well, we should try to see if Microsoft can hire Mark and a small team of people to support him." In the previous year Van Rossum came out of retirement and joined Microsoft as a Distinguished Engineer. "It was an important effort and it was too much for one person." Microsoft was open to the idea and a team of 6 engineers, including Van Rossum were established. That team has assisted other core developers in acting on this plan. 
+
+But the blog post also looks at how the team functions:
+
+Every contributor that made the switch from part-time to full-time contribution mentioned being able to get deeper into their work on the language.... The team meets regularly to discuss these things. "All six of us meet every Monday," says Van Rossum. "There's always more than enough to talk about. That is very different than as a core dev community getting together for a Sprint twice a year, like one day after the conference. That is a very special event, of course, but it doesn't feed me throughout the year." Van Rossum believes that knowledge of one another and their collaborative work gave the team a "leg up" because everyone "knows what communication styles people have and what everybody's weaknesses and strengths are...." 
+
+ Shannon's original 4 stage plan has continued to evolve to have continuous optimizations for the next several years. "To make that as smooth as possible, you have to think in terms of smaller steps, right?" says [team member] Michael Droettboom. Droettboom has worked on long-term projects in the scientific community including the Hubble Space Telescope and more recently the James Web Space Telescope.... "We hope we can bring some knowledge from really large proprietary systems into what we develop for the Community." says Droettboom. "I think that's really valuable because then you're not just doing it in the abstract. Not just imagining what's going to make Python faster for real use cases, but actually measuring it." [Team member] Brandt Bucher adds in that developers working with these teams can test the impact of changes, "getting useful insights and contributions from people who maintain large, diverse codebases...." Many of the team's meetings feature core developers from other teams and companies. 
+
+The blog post highlights specific activities of team members:
+
+ L Pereira is working on a change to how integers are represented inside Python, and "intends to change smaller integers to use native computation instead of the slower algorithms for arbitrarily large numbers."
+Irit Katriel implemented the new Exception groups and except* features in Python 3.11, and reports that "By simplifying the interpreter's internal representation of raised exceptions, I reduced the time it takes to raise and catch an exception by about 10%." Brandt Bucher (who helped create structural pattern matching for Python 3.10) is working on a Specialized Adaptive Interpreter (and tools like Specialist to help users move to Python).
+And they've already begun working on features for future versions of Python. "You can also find out more about what the Faster CPython Team has in mind for 3.12 in their ideas repo on Github."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Python+is+Getting+Faster.++How+a+Team+at+Microsoft+is+Helping%3A+https%3A%2F%2Fbit.ly%2F3DfTihS"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fdevelopers.slashdot.org%2Fstory%2F22%2F10%2F31%2F0443216%2Fpython-is-getting-faster-how-a-team-at-microsoft-is-helping%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://developers.slashdot.org/story/22/10/31/0443216/python-is-getting-faster-how-a-team-at-microsoft-is-helping?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=22303619&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2022-10-31T04:59:00+00:00</dc:date>
+<dc:subject>microsoft</dc:subject>
+<slash:department>working-on-your-core</slash:department>
+<slash:section>developers</slash:section>
+<slash:comments>71</slash:comments>
+<slash:hit_parade>71,71,67,54,20,11,4</slash:hit_parade>
+</item>
+<item rdf:about="https://apple.slashdot.org/story/22/10/31/0254226/apples-100-million-small-developer-assistance-fund-surprises-developers-with-payouts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Apple's $100 Million 'Small Developer Assistance Fund' Surprises Developers With Payouts</title>
+<link>https://apple.slashdot.org/story/22/10/31/0254226/apples-100-million-small-developer-assistance-fund-surprises-developers-with-payouts?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>Developer Dan Leveille received "a sketchy voicemail from a random number about a class action lawsuit settlement..." he posted on Twitter. "I thought it was a scam and almost ignored it." 
+
+But he didn't &amp;mdash; and ended up with $8,064.88 in his Venmo account. 
+
+
+Back in 2019 a lawsuit by U.S. developers accused Apple of "profit-killing" App Store commissions, reports TechForge Media. Apple settled that suit by agreeing to create a $100 million Small Developer Assistance Fund (for developers who sold in Apple's app store between June of 2015 and April of 2021). And this month Apple has finally started sending out those payments, Apple Insider reports:
+
+Developers had until May 20 to submit a request to an independent administrator to become a "Settlement Class Member." If they met the criteria, the developers stood to receive a payment from $250 to $30,000 in value.... 
+
+Along with the fund, the settlement also introduced a number of changes to App Store policies, including modifications relating to customer and developer communication, new pricing tiers, and a promise by Apple to continue offering its 15% reduced App Store commission for at least three years.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Apple's+%24100+Million+'Small+Developer+Assistance+Fund'+Surprises+Developers+With+Payouts%3A+https%3A%2F%2Fbit.ly%2F3sKv2zO"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fapple.slashdot.org%2Fstory%2F22%2F10%2F31%2F0254226%2Fapples-100-million-small-developer-assistance-fund-surprises-developers-with-payouts%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://apple.slashdot.org/story/22/10/31/0254226/apples-100-million-small-developer-assistance-fund-surprises-developers-with-payouts?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=22303375&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2022-10-31T02:59:00+00:00</dc:date>
+<dc:subject>ios</dc:subject>
+<slash:department>Apple-pays</slash:department>
+<slash:section>apple</slash:section>
+<slash:comments>16</slash:comments>
+<slash:hit_parade>16,14,14,14,4,1,0</slash:hit_parade>
+</item>
+<item rdf:about="https://science.slashdot.org/story/22/10/30/2348221/science-has-a-nasty-photoshopping-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>'Science Has a Nasty Photoshopping Problem'</title>
+<link>https://science.slashdot.org/story/22/10/30/2348221/science-has-a-nasty-photoshopping-problem?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>Dr. Bik is a microbiologist who has worked at Stanford University and for the Dutch National Institute for Health who is "blessed" with "what I'm told is a better-than-average ability to spot repeating patterns," according to their new Op-Ed in the New York Times. 
+
+In 2014 they'd spotted the same photo "being used in two different papers to represent results from three entirely different experiments...."
+
+Although this was eight years ago, I distinctly recall how angry it made me. This was cheating, pure and simple. By editing an image to produce a desired result, a scientist can manufacture proof for a favored hypothesis, or create a signal out of noise. Scientists must rely on and build on one another's work. Cheating is a transgression against everything that science should be. If scientific papers contain errors or &amp;mdash; much worse &amp;mdash; fraudulent data and fabricated imagery, other researchers are likely to waste time and grant money chasing theories based on made-up results..... 
+
+But were those duplicated images just an isolated case? With little clue about how big this would get, I began searching for suspicious figures in biomedical journals.... By day I went to my job in a lab at Stanford University, but I was soon spending every evening and most weekends looking for suspicious images. In 2016, I published an analysis of 20,621 peer-reviewed papers, discovering problematic images in no fewer than one in 25. Half of these appeared to have been manipulated deliberately &amp;mdash; rotated, flipped, stretched or otherwise photoshopped. With a sense of unease about how much bad science might be in journals, I quit my full-time job in 2019 so that I could devote myself to finding and reporting more cases of scientific fraud. 
+
+Using my pattern-matching eyes and lots of caffeine, I have analyzed more than 100,000 papers since 2014 and found apparent image duplication in 4,800 and similar evidence of error, cheating or other ethical problems in an additional 1,700. I've reported 2,500 of these to their journals' editors and &amp;mdash; after learning the hard way that journals often do not respond to these cases &amp;mdash; posted many of those papers along with 3,500 more to PubPeer, a website where scientific literature is discussed in public.... 
+
+Unfortunately, many scientific journals and academic institutions are slow to respond to evidence of image manipulation &amp;mdash; if they take action at all. So far, my work has resulted in 956 corrections and 923 retractions, but a majority of the papers I have reported to the journals remain unaddressed. 
+
+Manipulated images "raise questions about an entire line of research, which means potentially millions of dollars of wasted grant money and years of false hope for patients." Part of the problem is that despite "peer review" at scientific journals, "peer review is unpaid and undervalued, and the system is based on a trusting, non-adversarial relationship. Peer review is not set up to detect fraud." 
+
+But there's other problems.
+
+Most of my fellow detectives remain anonymous, operating under pseudonyms such as Smut Clyde or Cheshire. Criticizing other scientists' work is often not well received, and concerns about negative career consequences can prevent scientists from speaking out. Image problems I have reported under my full name have resulted in hateful messages, angry videos on social media sites and two lawsuit threats.... 
+
+Things could be about to get even worse. Artificial intelligence might help detect duplicated data in research, but it can also be used to generate fake data. It is easy nowadays to produce fabricated photos or videos of events that never happened, and A.I.-generated images might have already started to poison the scientific literature. As A.I. technology develops, it will become significantly harder to distinguish fake from real. 
+
+Science needs to get serious about research fraud. 
+Among their proposed solutions? "Journals should pay the data detectives who find fatal errors or misconduct in published papers, similar to how tech companies pay bounties to computer security experts who find bugs in software."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status='Science+Has+a+Nasty+Photoshopping+Problem'%3A+https%3A%2F%2Fbit.ly%2F3SQVwtO"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F22%2F10%2F30%2F2348221%2Fscience-has-a-nasty-photoshopping-problem%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/22/10/30/2348221/science-has-a-nasty-photoshopping-problem?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=22303177&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2022-10-31T00:52:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>fake-research</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>128</slash:comments>
+<slash:hit_parade>128,127,112,90,32,18,11</slash:hit_parade>
+</item>
+<item rdf:about="https://news.slashdot.org/story/22/10/30/2238221/can-talking-to-strangers-make-us-smarter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Can Talking to Strangers Make Us Smarter?</title>
+<link>https://news.slashdot.org/story/22/10/30/2238221/can-talking-to-strangers-make-us-smarter?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>Smartphones "have made it easier than ever to avoid interacting with the people in our immediate environment, writes New York City-based author Joe Keohane. 
+
+But is that always good? "Some social scientists believe teaching kids that literally everyone in the world they hadn't met is dangerous may have been actively harmful."
+
+For several years, I researched why we don't talk to strangers and what happens when we do for my book, The Power of Strangers: The Benefits of Connecting in a Suspicious World. This effort put me in the company of anthropologists, psychologists, sociologists, political scientists, archeologists, urban designers, activists, philosophers, and theologians, plus hundreds of random strangers I talked to wherever I went. What I learned was this: we miss a lot by being afraid of strangers. Talking to strangers &amp;mdash; under the right conditions &amp;mdash; is good for us, good for our neighborhoods, our towns and cities, our nations, and our world. Talking to strangers can teach you things, deepen you, make you a better citizen, a better thinker, and a better person. 
+
+It's a good way to live. But it's more than that. In a rapidly changing, infinitely complex, furiously polarised world, it's a way to survive.... 
+
+
+Talking to strangers can also make us wiser, more worldly, and more empathetic, says Harvard University professor and MacArthur "genius grant" recipient, Danielle Allen. When she was teaching at the University of Chicago, Allen was repeatedly warned by colleagues to stay away from the poorer side of town. She believes that this "fear of strangers was actually eroding a lot of [her peers'] intellectual and social capacities". She declined to stay away, and did some of her most admired work in those neighbourhoods. She has since devoted her career to fostering connections between people and groups that otherwise would not interact. "Real knowledge of what's outside one's garden cures fear," Allen writes, "but only by talking to strangers can we come by such knowledge." 
+
+By talking to strangers, you get a glimpse of the mind-boggling complexity of the human species, and the infinite variety of human experiences. It's a clich&amp;eacute;, but you get to see the world from the eyes of another, without which wisdom is impossible.... When these interactions go well &amp;mdash; and they generally do &amp;mdash; the positive perception of the stranger can generalise into better feelings about people. For me &amp;mdash; and many of the respected experts and complete strangers I've spoken to &amp;mdash; it comes down to a question of data. If I based all my perceptions of humanity on what is available through my phone or laptop, I would have a fantastically negative view of most other people.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Can+Talking+to+Strangers+Make+Us+Smarter%3F%3A+https%3A%2F%2Fbit.ly%2F3gWAM6U"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fnews.slashdot.org%2Fstory%2F22%2F10%2F30%2F2238221%2Fcan-talking-to-strangers-make-us-smarter%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://news.slashdot.org/story/22/10/30/2238221/can-talking-to-strangers-make-us-smarter?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=22303139&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2022-10-30T22:41:00+00:00</dc:date>
+<dc:subject>books</dc:subject>
+<slash:department>stranger-things</slash:department>
+<slash:section>news</slash:section>
+<slash:comments>65</slash:comments>
+<slash:hit_parade>65,61,54,45,9,5,2</slash:hit_parade>
+</item>
+<item rdf:about="https://hardware.slashdot.org/story/22/10/30/2052219/fires-from-exploding-e-bike-batteries-nearly-doubled-this-year-in-new-york-city?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Fires from Exploding E-Bike Batteries Nearly Doubled This Year in New York City</title>
+<link>https://hardware.slashdot.org/story/22/10/30/2052219/fires-from-exploding-e-bike-batteries-nearly-doubled-this-year-in-new-york-city?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>"Four times a week on average, an e-bike or e-scooter battery catches fire in New York City," reports NPR:
+
+Sometimes, it does so on the street, but more often, it happens when the owner is recharging the lithium ion battery. A mismatched charger won't always turn off automatically when the battery's fully charged, and keeps heating up. Or, the highly flammable electrolyte inside the battery's cells leaks out of its casing and ignites, setting off a chain reaction. 
+
+"These bikes when they fail, they fail like a blowtorch," said Dan Flynn, the chief fire marshal at the New York Fire Department. "We've seen incidents where people have described them as explosive &amp;mdash; incidents where they actually have so much power, they're actually blowing walls down in between rooms and apartments." 
+
+And these fires are getting more frequent. 
+
+As of Friday, the FDNY investigated 174 battery fires, putting 2022 on track to double the number of fires that occurred last year (104) and quadruple the number from 2020 (44). So far this year, six people have died in e-bike-related fires and 93 people were injured, up from four deaths and 79 injuries last year.
+&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Fires+from+Exploding+E-Bike+Batteries+Nearly+Doubled+This+Year+in+New+York+City%3A+https%3A%2F%2Fbit.ly%2F3NkFmrC"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fhardware.slashdot.org%2Fstory%2F22%2F10%2F30%2F2052219%2Ffires-from-exploding-e-bike-batteries-nearly-doubled-this-year-in-new-york-city%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://hardware.slashdot.org/story/22/10/30/2052219/fires-from-exploding-e-bike-batteries-nearly-doubled-this-year-in-new-york-city?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=22303039&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2022-10-30T21:15:00+00:00</dc:date>
+<dc:subject>power</dc:subject>
+<slash:department>burn-rate</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>100</slash:comments>
+<slash:hit_parade>100,100,97,90,21,11,8</slash:hit_parade>
+</item>
+<item rdf:about="https://it.slashdot.org/story/22/10/30/203207/how-privacy-enhancing-technologies-are-fulfilling-cryptographys-potential?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>How Privacy-Enhancing Technologies Are Fulfilling Cryptography's Potential</title>
+<link>https://it.slashdot.org/story/22/10/30/203207/how-privacy-enhancing-technologies-are-fulfilling-cryptographys-potential?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>Here's the Guardian's report on new cryptographic techniques where "you can share data while keeping that data private" &amp;mdash; known by the umbrella term "privacy-enhancing technologies" (or "Pets).
+They offer opportunities for data holders to pool their data in new and useful ways. In the health sector, for example, strict rules prohibit hospitals from sharing patients' medical data. Yet if hospitals were able to combine their data into larger datasets, doctors would have more information, which would enable them to make better decisions on treatments. Indeed, a project in Switzerland using Pets has since June allowed medical researchers at four independent teaching hospitals to conduct analysis on their combined data of about 250,000 patients, with no loss of privacy between institutions. Juan Troncoso, co-founder and CEO of Tune Insight, which runs the project, says: "The dream of personalised medicine relies on larger and higher-quality datasets. Pets can make this dream come true while complying with regulations and protecting people's privacy rights. This technology will be transformative for precision medicine and beyond." 
+
+The past couple of years have seen the emergence of dozens of Pet startups in advertising, insurance, marketing, machine learning, cybersecurity, fintech and cryptocurrencies. According to research firm Everest Group, the market for Pets was $2bn last year and will grow to more than $50bn in 2026. Governments are also getting interested. Last year, the United Nations launched its "Pet Lab", which was nothing to do with the welfare of domestic animals, but instead a forum for national statistical offices to find ways to share their data across borders while protecting the privacy of their citizens. 
+
+Jack Fitzsimons, founder of the UN Pet Lab, says: "Pets are one of the most important technologies of our generation. They have fundamentally changed the game, because they offer the promise that private data is only used for its intended purposes...." The emergence of applications has driven the theory, which is now sufficiently well developed to be commercially viable. Microsoft, for example, uses fully homomorphic encryption when you register a new password: the password is encrypted and then sent to a server who checks whether or not that password is in a list of passwords that have been discovered in data breaches, without the server being able to identify your password. Meta, Google and Apple have also over the last year or so been introducing similar tools to some of their products. 
+
+The article offers quick explanations of zero-knowledge proofs, secure multiparty computation, and fully homomorphic encryption (which allows the performance of analytics on data by a second party who never reads the data or learns the result). 
+
+And "In addition to new cryptographic techniques, Pets also include advances in computational statistics such as 'differential privacy', an idea from 2006 in which noise is added to results in order to preserve the privacy of individuals."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=How+Privacy-Enhancing+Technologies+Are+Fulfilling+Cryptography's+Potential%3A+https%3A%2F%2Fbit.ly%2F3SJFTEI"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fit.slashdot.org%2Fstory%2F22%2F10%2F30%2F203207%2Fhow-privacy-enhancing-technologies-are-fulfilling-cryptographys-potential%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://it.slashdot.org/story/22/10/30/203207/how-privacy-enhancing-technologies-are-fulfilling-cryptographys-potential?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=22303015&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2022-10-30T20:15:00+00:00</dc:date>
+<dc:subject>encryption</dc:subject>
+<slash:department>private-sharing</slash:department>
+<slash:section>it</slash:section>
+<slash:comments>12</slash:comments>
+<slash:hit_parade>12,12,12,10,2,2,1</slash:hit_parade>
+</item>
+<item rdf:about="https://science.slashdot.org/story/22/10/30/1913209/the-world-is-running-out-of-helium-why-doctors-are-worried?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The World Is Running Out of Helium.  Why Doctors are Worried</title>
+<link>https://science.slashdot.org/story/22/10/30/1913209/the-world-is-running-out-of-helium-why-doctors-are-worried?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</link>
+<description>NBC News reports:
+
+A global helium shortage has doctors worried about one of the natural gas's most essential, and perhaps unexpected, uses: MRIs. 
+
+
+Strange as it sounds, the lighter-than-air element that gives balloons their buoyancy also powers the vital medical diagnostic machines. An MRI can't function without some 2,000 liters of ultra-cold liquid helium keeping its magnets cool enough to work. But helium &amp;mdash; a nonrenewable element found deep within the Earth's crust &amp;mdash; is running low, leaving hospitals wondering how to plan for a future with a much scarcer supply.... [F]our of five major U.S. helium suppliers are rationing the element, said Phil Kornbluth, president of Kornbluth Helium Consulting. These suppliers are prioritizing the health care industry by reducing helium allotments to less essential customers. 
+
+
+
+Hospitals haven't canceled patients' MRIs or shut down machines yet. They have seen helium costs rise at an alarming rate, though &amp;mdash; possibly up to 30%, guessed Phil Kornbluth, president of Kornbluth Helium Consulting. But without an end in sight for the helium shortage, the future of MRI remains uncertain.... The problem is that no other element is cold enough for the MRI. "There's no alternative," said Donna Craft, a regional construction manager for Premier Inc. who contracts with helium suppliers for some 4,000 hospitals. "Without helium, MRIs would have to shut down...." 
+
+GE and Siemens are both developing MRIs requiring less liquid helium. Siemens recently introduced one requiring just 0.7 liters, and, according to Panagiotelis, GE rolled out a machine that's "1.4 times more efficient than previous models." These technologies aren't widely available, though, and replacing the country's 12,000 MRI machines &amp;mdash; each weighing up to 50,000 pounds &amp;mdash; is anything but a quick fix. Meanwhile, hospitals keep installing additional conventional MRI machines to meet demand for diagnostic scans. 
+
+The article notes some scientists are already shutting down research projects that require helium. 
+
+Thanks to long-time Slashdot reader Wildbear for submitting the article!&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+World+Is+Running+Out+of+Helium.++Why+Doctors+are+Worried%3A+https%3A%2F%2Fbit.ly%2F3FwvIjQ"&gt;&lt;img src="https://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fscience.slashdot.org%2Fstory%2F22%2F10%2F30%2F1913209%2Fthe-world-is-running-out-of-helium-why-doctors-are-worried%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="https://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://science.slashdot.org/story/22/10/30/1913209/the-world-is-running-out-of-helium-why-doctors-are-worried?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="https://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=22302943&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;</description>
+<dc:creator>EditorDavid</dc:creator>
+<dc:date>2022-10-30T19:15:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>ballooning-costs</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>115</slash:comments>
+<slash:hit_parade>115,113,110,98,43,25,14</slash:hit_parade>
+</item>
+<textinput rdf:about="https://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>https://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>

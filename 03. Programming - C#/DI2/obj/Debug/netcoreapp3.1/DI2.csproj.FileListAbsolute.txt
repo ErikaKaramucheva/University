@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\DI2\bin\Debug\netcoreapp3.1\DI2.exe
+C:\Users\user\source\repos\DI2\bin\Debug\netcoreapp3.1\DI2.deps.json
+C:\Users\user\source\repos\DI2\bin\Debug\netcoreapp3.1\DI2.runtimeconfig.json
+C:\Users\user\source\repos\DI2\bin\Debug\netcoreapp3.1\DI2.runtimeconfig.dev.json
+C:\Users\user\source\repos\DI2\bin\Debug\netcoreapp3.1\DI2.dll
+C:\Users\user\source\repos\DI2\bin\Debug\netcoreapp3.1\DI2.pdb
+C:\Users\user\source\repos\DI2\obj\Debug\netcoreapp3.1\DI2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\DI2\obj\Debug\netcoreapp3.1\DI2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DI2\obj\Debug\netcoreapp3.1\DI2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DI2\obj\Debug\netcoreapp3.1\DI2.AssemblyInfo.cs
+C:\Users\user\source\repos\DI2\obj\Debug\netcoreapp3.1\DI2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DI2\obj\Debug\netcoreapp3.1\DI2.dll
+C:\Users\user\source\repos\DI2\obj\Debug\netcoreapp3.1\DI2.pdb
+C:\Users\user\source\repos\DI2\obj\Debug\netcoreapp3.1\DI2.genruntimeconfig.cache

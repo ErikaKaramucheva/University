@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0293564B-2197-423D-B72C-26AA99871D44}|Exercise.csproj|c:\\users\\user\\source\\repos\\exercise\\third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0293564B-2197-423D-B72C-26AA99871D44}|Exercise.csproj|solutionrelative:third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0293564B-2197-423D-B72C-26AA99871D44}|Exercise.csproj|c:\\users\\user\\source\\repos\\exercise\\second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0293564B-2197-423D-B72C-26AA99871D44}|Exercise.csproj|solutionrelative:second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0293564B-2197-423D-B72C-26AA99871D44}|Exercise.csproj|c:\\users\\user\\source\\repos\\exercise\\first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0293564B-2197-423D-B72C-26AA99871D44}|Exercise.csproj|solutionrelative:first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Third.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exercise\\Third.cs",
+              "RelativeDocumentMoniker": "Third.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exercise\\Third.cs",
+              "RelativeToolTip": "Third.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:48:27.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Second.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exercise\\Second.cs",
+              "RelativeDocumentMoniker": "Second.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exercise\\Second.cs",
+              "RelativeToolTip": "Second.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:48:18.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "First.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Exercise\\First.cs",
+              "RelativeDocumentMoniker": "First.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Exercise\\First.cs",
+              "RelativeToolTip": "First.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T15:48:01.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

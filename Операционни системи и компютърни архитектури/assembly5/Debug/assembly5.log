@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\assembly5\Source.cpp(27,3): warning C4102: 'skip': unreferenced label
+C:\Users\user\source\repos\assembly5\Source.cpp(38,3): warning C4102: 'skip': unreferenced label
+C:\Users\user\source\repos\assembly5\Source.cpp(397,1): warning C4102: 'skip': unreferenced label
+  assembly5.vcxproj -> C:\Users\user\source\repos\assembly5\Debug\assembly5.exe

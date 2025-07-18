@@ -1,0 +1,51 @@
+{% load static %}
+
+<aside class="main-sidebar sidebar-primary ">
+      <div class="sidebar">
+        <div class="user-panel mt-3 pb-3 mb-3 d-flex">
+          <div class="info">
+            <a href="{% url 'student_profile' %}" class="d-block"><strong>{{ user.first_name }} {{ user.last_name }}</strong></a>
+          </div>
+        </div>
+
+        <nav class="mt-2">
+          <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+            <li class="nav-item">
+              {% url 'student_home' as student_home %}
+              <a href="{{ student_home }}" class="nav-link {% if request.path == student_home %} active {% endif %}">
+                <i class="nav-icon fas fa-tachometer-alt"></i>
+                <p> Home</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              {% url 'student_view_attendance' as student_view_attendance %}
+              <a href="{{ student_view_attendance }}" class="nav-link {% if request.path == student_view_attendance %} active {% endif %}">
+                <i class="nav-icon fas fa-calendar-alt"></i>
+                <p> View Attendance </p>
+              </a>
+            </li>
+            <li class="nav-item">
+              {% url 'student_view_result' as student_view_result %}
+              <a href="{{ student_view_result }}" class="nav-link {% if request.path == student_view_result %} active {% endif %}">
+                <i class="nav-icon fas fa-tasks"></i>
+                <p>View Result</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              {% url 'student_apply_leave' as student_apply_leave %}
+              <a href="{{ student_apply_leave }}" class="nav-link {% if request.path == student_apply_leave %} active {% endif %}">
+                <i class="nav-icon fas fa-envelope-open-text"></i>
+                <p> Apply for Leave</p>
+              </a>
+            </li>
+            <li class="nav-item">
+              {% url 'create_messages' as create_messages %}
+              <a href="{{ create_messages }}" class="nav-link {% if request.path == create_messages %} active {% endif %}">
+                <i class="nav-icon fas fa-th"></i>
+                <p>Message</p>
+              </a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </aside>

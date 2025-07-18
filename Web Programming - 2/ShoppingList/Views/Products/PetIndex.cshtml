@@ -1,0 +1,80 @@
+﻿@model ShoppingList.ViewModels.ProductsVM
+
+@{
+    ViewData["Title"] = "За домашния любимец";
+}
+
+
+<h1 class="text-center py-4">За домашния любимец</h1>
+<br>
+@if (Model.products.Count() > 0)
+{
+    <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
+        <table>
+            <tr class="text-center bg-dark text-white">
+                <th>Продукт </th>
+                <th>Количество </th>
+                <th>Приоритет </th>
+                <th>Действие </th>
+            </tr>
+            @foreach (var p in @Model.products)
+            {
+                <tr class="text-center">
+                    <td>@p.Name</td>
+                    <td>@p.Quantity</td>
+                    <td>@p.Priority</td>
+                    <td>
+                        <div class="form-group">
+                            <a asp-controller="Products" asp-action="Delete" asp-route-Id="@p.Id" class="btn btn-primary">
+                                Изтрий
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+
+
+        </table>
+    </div>
+}
+
+<div class="row">
+    <div class="col-sm-12 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6">
+
+        <h3 class="text-center">Добави продукт в списъка</h3>
+        <form asp-action="AddProduct" asp-route-id=4>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group text-center">
+                <label asp-for="Name" class="control-label">Име:</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group text-center">
+                <label asp-for="Quantity" class="control-label">Количество</label>
+                <input asp-for="Quantity" class="form-control" />
+                <span asp-validation-for="Quantity" class="text-danger"></span>
+            </div>
+            <div class="form-group text-center">
+                <label asp-for="Priority" class="control-label">Приоритет: </label>
+                <select asp-for="Priority" class="form-control" />
+                <option value="много важно">Много важно</option>
+                <option value="важно">Важно</option>
+                <option value="средно">Средно</option>
+                <option value="маловажно">Маловажно</option>
+                <span asp-validation-for="Priority" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group text-center">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-controller="Home" asp-action="Index">Обратно към началната страница</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

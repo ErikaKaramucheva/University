@@ -1,0 +1,14 @@
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 2\IRaceConditionList\bin\Debug\net8.0\IRaceConditionList.exe
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 2\IRaceConditionList\bin\Debug\net8.0\IRaceConditionList.deps.json
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 2\IRaceConditionList\bin\Debug\net8.0\IRaceConditionList.runtimeconfig.json
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 2\IRaceConditionList\bin\Debug\net8.0\IRaceConditionList.dll
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 2\IRaceConditionList\bin\Debug\net8.0\IRaceConditionList.pdb
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 2\IRaceConditionList\obj\Debug\net8.0\IRaceConditionList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 2\IRaceConditionList\obj\Debug\net8.0\IRaceConditionList.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 2\IRaceConditionList\obj\Debug\net8.0\IRaceConditionList.AssemblyInfo.cs
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 2\IRaceConditionList\obj\Debug\net8.0\IRaceConditionList.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 2\IRaceConditionList\obj\Debug\net8.0\IRaceConditionList.dll
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 2\IRaceConditionList\obj\Debug\net8.0\refint\IRaceConditionList.dll
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 2\IRaceConditionList\obj\Debug\net8.0\IRaceConditionList.pdb
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 2\IRaceConditionList\obj\Debug\net8.0\IRaceConditionList.genruntimeconfig.cache
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 2\IRaceConditionList\obj\Debug\net8.0\ref\IRaceConditionList.dll

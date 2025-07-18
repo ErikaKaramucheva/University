@@ -1,0 +1,23 @@
+﻿@using OnlineLibraryProject.Entities;
+@{ ViewBag.Title = "Home"; }
+
+<div class="text-center">
+    <br />
+    <h1 class="display-4">Добре, дошли в света на книгите!</h1>
+    <br />
+    <partial name="_HomePagePicturePartial" />
+    @if (User.Identity==User)
+    {
+<a asp-controller="Books"
+   asp-action="MyLibrary"
+   class="btn  btn-outline-info" style="margin-top: 20px">
+    Моята библиотека
+</a> }
+            else
+            {
+<a asp-controller="Books"
+   asp-action="All"
+   class="btn btn-outline-info" style="margin-top: 20px">
+    Всички книги
+</a>}
+</div>

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\SearchingAndSortingAlgoithmsExample\bin\Debug\netcoreapp3.1\SearchingAndSortingAlgoithmsExample.exe
+C:\Users\user\source\repos\SearchingAndSortingAlgoithmsExample\bin\Debug\netcoreapp3.1\SearchingAndSortingAlgoithmsExample.deps.json
+C:\Users\user\source\repos\SearchingAndSortingAlgoithmsExample\bin\Debug\netcoreapp3.1\SearchingAndSortingAlgoithmsExample.runtimeconfig.json
+C:\Users\user\source\repos\SearchingAndSortingAlgoithmsExample\bin\Debug\netcoreapp3.1\SearchingAndSortingAlgoithmsExample.runtimeconfig.dev.json
+C:\Users\user\source\repos\SearchingAndSortingAlgoithmsExample\bin\Debug\netcoreapp3.1\SearchingAndSortingAlgoithmsExample.dll
+C:\Users\user\source\repos\SearchingAndSortingAlgoithmsExample\bin\Debug\netcoreapp3.1\SearchingAndSortingAlgoithmsExample.pdb
+C:\Users\user\source\repos\SearchingAndSortingAlgoithmsExample\obj\Debug\netcoreapp3.1\SearchingAndSortingAlgoithmsExample.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SearchingAndSortingAlgoithmsExample\obj\Debug\netcoreapp3.1\SearchingAndSortingAlgoithmsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SearchingAndSortingAlgoithmsExample\obj\Debug\netcoreapp3.1\SearchingAndSortingAlgoithmsExample.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SearchingAndSortingAlgoithmsExample\obj\Debug\netcoreapp3.1\SearchingAndSortingAlgoithmsExample.AssemblyInfo.cs
+C:\Users\user\source\repos\SearchingAndSortingAlgoithmsExample\obj\Debug\netcoreapp3.1\SearchingAndSortingAlgoithmsExample.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SearchingAndSortingAlgoithmsExample\obj\Debug\netcoreapp3.1\SearchingAndSortingAlgoithmsExample.dll
+C:\Users\user\source\repos\SearchingAndSortingAlgoithmsExample\obj\Debug\netcoreapp3.1\SearchingAndSortingAlgoithmsExample.pdb
+C:\Users\user\source\repos\SearchingAndSortingAlgoithmsExample\obj\Debug\netcoreapp3.1\SearchingAndSortingAlgoithmsExample.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.QuizzApp" parent="android:Theme.Material.Light.DarkActionBar" >
+    <item name="colorPrimary">#FFBB86FC</item>
+    <item name="colorPrimaryDark">#FF6200EE</item>
+    <item name="colorAccent">#FF3700B3</item>
+</style>
+    <style name="NoActionBarTheme" parent="Theme.AppCompat.Light.NoActionBar" >
+        <!--android:Theme.Material.Light.NoActionBar-->
+        <item name="colorPrimary">#FFBB86FC</item>
+        <item name="colorPrimaryDark">#FF6200EE</item>
+        <item name="colorAccent">#FF3700B3</item>
+    </style>
+
+</resources>

@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\W3resourceExercise\bin\Debug\net5.0\W3resourceExercise.exe
+C:\Users\user\source\repos\W3resourceExercise\bin\Debug\net5.0\W3resourceExercise.deps.json
+C:\Users\user\source\repos\W3resourceExercise\bin\Debug\net5.0\W3resourceExercise.runtimeconfig.json
+C:\Users\user\source\repos\W3resourceExercise\bin\Debug\net5.0\W3resourceExercise.runtimeconfig.dev.json
+C:\Users\user\source\repos\W3resourceExercise\bin\Debug\net5.0\W3resourceExercise.dll
+C:\Users\user\source\repos\W3resourceExercise\bin\Debug\net5.0\ref\W3resourceExercise.dll
+C:\Users\user\source\repos\W3resourceExercise\bin\Debug\net5.0\W3resourceExercise.pdb
+C:\Users\user\source\repos\W3resourceExercise\obj\Debug\net5.0\W3resourceExercise.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\W3resourceExercise\obj\Debug\net5.0\W3resourceExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\W3resourceExercise\obj\Debug\net5.0\W3resourceExercise.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\W3resourceExercise\obj\Debug\net5.0\W3resourceExercise.AssemblyInfo.cs
+C:\Users\user\source\repos\W3resourceExercise\obj\Debug\net5.0\W3resourceExercise.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\W3resourceExercise\obj\Debug\net5.0\W3resourceExercise.dll
+C:\Users\user\source\repos\W3resourceExercise\obj\Debug\net5.0\ref\W3resourceExercise.dll
+C:\Users\user\source\repos\W3resourceExercise\obj\Debug\net5.0\W3resourceExercise.pdb
+C:\Users\user\source\repos\W3resourceExercise\obj\Debug\net5.0\W3resourceExercise.genruntimeconfig.cache

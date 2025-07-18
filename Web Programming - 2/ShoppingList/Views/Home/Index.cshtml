@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<div class="p position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light ">
+    <div class="col-md-5 p-lg-5 mx-auto my-5 text-white">
+        <h1 class="display-4 fw-normal">DigitaList</h1>
+        <p class="lead fw-normal">Твоят дигитален списък за пазаруване.</p>
+    </div>
+    <div class=" shadow-sm d-none d-md-block"></div>
+    <div class=" shadow-sm d-none d-md-block"></div>
+</div>
+
+<div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3 ">
+    <div class="bg-dark me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden text-info">
+            <a style="text-decoration: none" asp-area="" asp-controller="Products" asp-action="GroceriesIndex"><h2 class=" display-5">Хранителни продукти</h2></a>
+    </div>
+    <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden text-info">
+            <a style="text-decoration: none" asp-area="" asp-controller="Products" asp-action="ClothesIndex"><h2 class="a display-5">Дрехи, обувки, аксесоари</h2></a>
+    </div>
+</div>
+
+<div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
+    <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden text-info">
+            <a style="text-decoration: none" asp-area="" asp-controller="Products" asp-action="HomeIndex"><h2 class="a display-5">За дома</h2></a>
+    </div>
+    
+    <div class="bg-dark me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden text-info">
+            <a style="text-decoration: none" asp-area="" asp-controller="Products" asp-action="PetIndex"><h2 class="a display-5">За домашния любимец</h2></a>
+    </div>
+</div>

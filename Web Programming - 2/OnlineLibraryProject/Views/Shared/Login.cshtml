@@ -1,0 +1,54 @@
+﻿@page
+@model OnlineLibraryProject.ViewModels.LoginVM;
+
+@{ ViewBag.Title = "Вход"; }
+
+<h1 class="text-center">@ViewBag.Title</h1>
+
+<div class="row">
+    <div class="col-md-4 offset-md-4">
+        <section>
+            <form id="account" method="post">
+                <hr />
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="form-group text-center">
+                    <label asp-for="Input.Email"></label>
+                    <input asp-for="Input.Email" class="form-control" />
+                    <span asp-validation-for="Input.Email" class="text-danger"></span>
+                </div>
+                <div class="form-group text-center">
+                    <label asp-for="Input.Password">Парола</label>
+                    <input asp-for="Input.Password" class="form-control" />
+                    <span asp-validation-for="Input.Password" class="text-danger"></span>
+                </div>
+                <div class="form-group text-center">
+                    <div class="checkbox">
+                        <label asp-for="Input.RememberMe">
+                            <input asp-for="Input.RememberMe" />Запомни ме
+                        </label>
+                    </div>
+                </div>
+                <div class="form-group text-center">
+                    <button type="submit" class="btn bg-info btn-primary">Вход</button>
+                </div>
+                <div class="form-group text-center">
+                    <p>
+                        <a class="text-info" id="forgot-password" asp-page="./ForgotPassword">Забравена парола?</a>
+                    </p>
+                    <p>
+                        <a class="text-info" asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Регистрирай се тук</a>
+                    </p>
+                </div>
+            </form>
+        </section>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}

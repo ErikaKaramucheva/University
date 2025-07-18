@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Parallel programming\\Day3-Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCD4ACB-8038-49D0-97A0-1517BDF1F933}|Day3-Demo.csproj|c:\\users\\user\\desktop\\parallel programming\\day3-demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCD4ACB-8038-49D0-97A0-1517BDF1F933}|Day3-Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCD4ACB-8038-49D0-97A0-1517BDF1F933}|Day3-Demo.csproj|c:\\users\\user\\desktop\\parallel programming\\day3-demo\\webscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCD4ACB-8038-49D0-97A0-1517BDF1F933}|Day3-Demo.csproj|solutionrelative:webscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCD4ACB-8038-49D0-97A0-1517BDF1F933}|Day3-Demo.csproj|c:\\users\\user\\desktop\\parallel programming\\day3-demo\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCCD4ACB-8038-49D0-97A0-1517BDF1F933}|Day3-Demo.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebScraper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Parallel programming\\Day3-Demo\\WebScraper.cs",
+              "RelativeDocumentMoniker": "WebScraper.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Parallel programming\\Day3-Demo\\WebScraper.cs",
+              "RelativeToolTip": "WebScraper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:18:41.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Parallel programming\\Day3-Demo\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Parallel programming\\Day3-Demo\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:10:31.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Parallel programming\\Day3-Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Parallel programming\\Day3-Demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:05:17.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

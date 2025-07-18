@@ -1,0 +1,15 @@
+d:\users\fmi\Desktop\SI\Exam\Exam\bin\Debug\net7.0\Exam.exe
+d:\users\fmi\Desktop\SI\Exam\Exam\bin\Debug\net7.0\Exam.deps.json
+d:\users\fmi\Desktop\SI\Exam\Exam\bin\Debug\net7.0\Exam.runtimeconfig.json
+d:\users\fmi\Desktop\SI\Exam\Exam\bin\Debug\net7.0\Exam.dll
+d:\users\fmi\Desktop\SI\Exam\Exam\bin\Debug\net7.0\Exam.pdb
+d:\users\fmi\Desktop\SI\Exam\Exam\obj\Debug\net7.0\Exam.csproj.AssemblyReference.cache
+d:\users\fmi\Desktop\SI\Exam\Exam\obj\Debug\net7.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\fmi\Desktop\SI\Exam\Exam\obj\Debug\net7.0\Exam.AssemblyInfoInputs.cache
+d:\users\fmi\Desktop\SI\Exam\Exam\obj\Debug\net7.0\Exam.AssemblyInfo.cs
+d:\users\fmi\Desktop\SI\Exam\Exam\obj\Debug\net7.0\Exam.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\SI\Exam\Exam\obj\Debug\net7.0\Exam.dll
+d:\users\fmi\Desktop\SI\Exam\Exam\obj\Debug\net7.0\refint\Exam.dll
+d:\users\fmi\Desktop\SI\Exam\Exam\obj\Debug\net7.0\Exam.pdb
+d:\users\fmi\Desktop\SI\Exam\Exam\obj\Debug\net7.0\Exam.genruntimeconfig.cache
+d:\users\fmi\Desktop\SI\Exam\Exam\obj\Debug\net7.0\ref\Exam.dll

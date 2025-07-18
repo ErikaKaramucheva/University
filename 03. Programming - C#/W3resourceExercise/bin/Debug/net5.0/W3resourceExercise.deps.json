@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "W3resourceExercise/1.0.0": {
+        "runtime": {
+          "W3resourceExercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "W3resourceExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

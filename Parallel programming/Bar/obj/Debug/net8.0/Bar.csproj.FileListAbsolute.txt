@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Parallel programming\Bar\bin\Debug\net8.0\Bar.exe
+C:\Users\user\Desktop\Parallel programming\Bar\bin\Debug\net8.0\Bar.deps.json
+C:\Users\user\Desktop\Parallel programming\Bar\bin\Debug\net8.0\Bar.runtimeconfig.json
+C:\Users\user\Desktop\Parallel programming\Bar\bin\Debug\net8.0\Bar.dll
+C:\Users\user\Desktop\Parallel programming\Bar\bin\Debug\net8.0\Bar.pdb
+C:\Users\user\Desktop\Parallel programming\Bar\obj\Debug\net8.0\Bar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Parallel programming\Bar\obj\Debug\net8.0\Bar.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Parallel programming\Bar\obj\Debug\net8.0\Bar.AssemblyInfo.cs
+C:\Users\user\Desktop\Parallel programming\Bar\obj\Debug\net8.0\Bar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Parallel programming\Bar\obj\Debug\net8.0\Bar.sourcelink.json
+C:\Users\user\Desktop\Parallel programming\Bar\obj\Debug\net8.0\Bar.dll
+C:\Users\user\Desktop\Parallel programming\Bar\obj\Debug\net8.0\refint\Bar.dll
+C:\Users\user\Desktop\Parallel programming\Bar\obj\Debug\net8.0\Bar.pdb
+C:\Users\user\Desktop\Parallel programming\Bar\obj\Debug\net8.0\Bar.genruntimeconfig.cache
+C:\Users\user\Desktop\Parallel programming\Bar\obj\Debug\net8.0\ref\Bar.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Parallel programming\CarWashThreadSimulation\obj\Debug\net8.0\CarWashThreadSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Parallel programming\CarWashThreadSimulation\obj\Debug\net8.0\CarWashThreadSimulation.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Parallel programming\CarWashThreadSimulation\obj\Debug\net8.0\CarWashThreadSimulation.AssemblyInfo.cs
+C:\Users\user\Desktop\Parallel programming\CarWashThreadSimulation\obj\Debug\net8.0\CarWashThreadSimulation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Parallel programming\CarWashThreadSimulation\obj\Debug\net8.0\CarWashThreadSimulation.sourcelink.json
+C:\Users\user\Desktop\Parallel programming\CarWashThreadSimulation\bin\Debug\net8.0\CarWashThreadSimulation.exe
+C:\Users\user\Desktop\Parallel programming\CarWashThreadSimulation\bin\Debug\net8.0\CarWashThreadSimulation.deps.json
+C:\Users\user\Desktop\Parallel programming\CarWashThreadSimulation\bin\Debug\net8.0\CarWashThreadSimulation.runtimeconfig.json
+C:\Users\user\Desktop\Parallel programming\CarWashThreadSimulation\bin\Debug\net8.0\CarWashThreadSimulation.dll
+C:\Users\user\Desktop\Parallel programming\CarWashThreadSimulation\bin\Debug\net8.0\CarWashThreadSimulation.pdb
+C:\Users\user\Desktop\Parallel programming\CarWashThreadSimulation\obj\Debug\net8.0\CarWashThreadSimulation.dll
+C:\Users\user\Desktop\Parallel programming\CarWashThreadSimulation\obj\Debug\net8.0\refint\CarWashThreadSimulation.dll
+C:\Users\user\Desktop\Parallel programming\CarWashThreadSimulation\obj\Debug\net8.0\CarWashThreadSimulation.pdb
+C:\Users\user\Desktop\Parallel programming\CarWashThreadSimulation\obj\Debug\net8.0\CarWashThreadSimulation.genruntimeconfig.cache
+C:\Users\user\Desktop\Parallel programming\CarWashThreadSimulation\obj\Debug\net8.0\ref\CarWashThreadSimulation.dll

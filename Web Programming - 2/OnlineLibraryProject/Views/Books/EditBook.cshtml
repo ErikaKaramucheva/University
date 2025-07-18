@@ -1,0 +1,79 @@
+﻿
+@model OnlineLibraryProject.ViewModels.EditBookVM
+
+@{ ViewBag.Title = "Редактирай книга"; }
+
+<div asp-validation-summary="All" class="text-danger"></div>
+
+@if (Model.Genres?.Count() >= 1)
+{
+<div class="row">
+    <div class="col-sm-12 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6">
+        <h2 class="heading-margin text-center">@ViewBag.Title</h2>
+        <form method="post">
+            <div class="form-group text-center">
+                <label asp-for="Title">Заглавие</label>
+                <input asp-for="Title" class="form-control">
+                <span asp-validation-for="Title" class="small text-danger"></span>
+            </div>
+            <div class="form-group text-center">
+                <label asp-for="Author">
+                    Избери автор
+                </label>
+                <select asp-for="Author" class="form-control">
+                    @foreach (var author in Model.Authors)
+                    {
+        <option value="@author.Id">@author.FirstName @author.LastName</option>
+}
+                </select>
+                <span asp-validation-for="Author" class="small text-danger"></span>
+            </div>
+
+            <div class="form-group text-center">
+                <label asp-for="GenreId">
+                    Избери жанр
+                </label>
+                <select asp-for="GenreId" class="form-control">
+                    @foreach (var genre in Model.Genres)
+                    {
+        <option value="@genre.Id">@genre.Name</option>
+}
+                </select>
+                <span asp-validation-for="GenreId" class="small text-danger"></span>
+            </div>
+
+            <div class="form-group text-center">
+                <label asp-for="Description">Описание</label>
+                <textarea asp-for="Description" rows="4" class="form-control"></textarea>
+                <span asp-validation-for="Description" class="small text-danger"></span>
+            </div>
+            <div class="form-group text-center">
+                <label asp-for="ImageUrl">Линк към изображение</label>
+                <input asp-for="ImageUrl" class="form-control">
+                <span asp-validation-for="ImageUrl" class="small text-danger"></span>
+                <h7 class="text-muted">
+                </h7>
+            </div>
+            <div class="form-group text-center">
+                <label asp-for="OnlineBookUrl">Линк към онлайн книга</label>
+                <input asp-for="OnlineBookUrl" class="form-control">
+                <span asp-validation-for="OnlineBookUrl" class="small text-danger"></span>
+                <h7 class="text-muted">
+                </h7>
+            </div>
+            <input type="hidden" name="Id" value="@Model.Id">
+            <input asp-controller="Books"
+                   asp-action="Edit"
+                   class="btn btn-outline-info text-center offset-md-4" type="submit" value="Редактирай" />
+            <a asp-controller="Books"
+               asp-action="All"
+               class="btn btn-outline-danger" style="margin: 5px">
+                Отказ
+            </a>
+        </form>
+    </div>
+</div>}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

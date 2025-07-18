@@ -1,0 +1,63 @@
+﻿
+@model OnlineLibraryProject.ViewModels.BookDetailsVM;
+
+@{ ViewBag.Title = "Детайли"; }
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+@if (Model != null)
+{
+<div id="main-content" class="blog-page">
+    <div class="container">
+        <div class="row clearfix">
+            <div class="col-lg-8 col-md-12 offset-md-2">
+                <div class="card single_post">
+                    <div class="body">
+                        <div class="img-post">
+                            <img class="d-block img-fluid mx-auto" src="@Model.ImageUrl" alt="@Model.Title book cover image">
+                        </div>
+                        <h3 class="text-center" style="padding: 10px">
+                            @Model.Title
+                            <br />от <br />
+                            @Model.Author
+                        </h3>
+                        <h5 class="text-center" style="margin-top: 20px">Жанр: @Model.Genre</h5>
+                        <h5 style="margin-top: 30px">@Model.Description</h5>
+                        <br />
+                        @if (User.Identity == User)
+                        {
+        <h5 class="text-center" style="margin-top: 20px">
+            <a href="@Model.OnlineBookUrl">
+                Линк към онлайн книга:
+            </a>
+            <br />
+        </h5>}
+                    </div>
+                    <div class="single_post_footer_special">
+                       <!-- if (User.IsAdmin())-->
+                        {
+        <a asp-controller="Books"
+           asp-action="EditBook"
+           asp-route-bookId="@Model.Id"
+           class="btn btn-outline-warning">
+            Редактирай
+        </a>
+                            <a asp-controller="Books"
+                               asp-action="Delete"
+                               asp-route-bookId="@Model.Id"
+                               class="btn btn-outline-danger" style="margin: 10px">
+                                Изтрий
+                            </a>}
+                        <!--if (User)//User.IsUser())-->
+                        {
+        <a asp-controller="Transactions"
+           asp-action="Create"
+           class="btn btn-outline-info">
+            Добави книга към Моята библиотека
+        </a>}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>}

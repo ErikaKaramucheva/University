@@ -1,0 +1,126 @@
+*{
+	box-sizing: border-box;
+}
+
+.comment-section{
+	list-style-type: none;
+	width: 100%;
+	max-width: 800px;
+margin: 50px auto;
+padding: 10px;
+}
+.comment{
+	display: flex;
+	flex-direction: row;
+	border-radius: 3px;
+	margin-bottom: 45px;
+	flex-wrap: wrap;
+}
+.comment.user-comment{
+	color: #808080;
+}
+.comment.author-comment{
+	color:  #60686d;
+	justify-content: flex-end;
+}
+.comment .info{
+	width: 17%;
+}
+.comment.user-comment .info{
+	text-align: right;
+}
+.comment.author-comment .info{
+	order: 3;
+}
+.comment .info a{
+	display: block;
+	text-decoration: none;
+	color:  #656c71;
+	font-weight: bold;
+	overflow:  hidden;
+	white-space: nowrap;
+	padding: 10px 0 3px 0;
+}
+.comment .info span{
+	color: #9ca7af;
+}
+.comment .avatar{
+	width: 8%;
+}
+.comment.user-comment .avatar{
+	padding: 10px 18px 0 3px;
+}
+.comment.author-comment .avatar{
+	order: 2;
+	padding: 10px 3px 0 18px;
+}
+.comment .avatar img{
+	display: block;
+	width: 35px;
+	height: auto;
+	border-radius: 50%;
+}
+.comment.user-comment .avatar img{
+	float: right;
+}
+.comment.author-comment p{
+	background-color: #e2f8ff;
+	order: 1;
+}
+.comment p{
+	line-height: 1.5;
+	padding: 18px 22px;
+	width: 50%;
+	position: relative;
+	word-wrap: break-word;
+}
+.user-comment p:after{
+	content: '';
+	position: absolute;
+	left: -8px;
+	top: 18px;
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	background-color: red;
+	border:  2px solid #f3f3f3;
+
+}
+.author-comment p:after{
+	content: '';
+	position: absolute;
+	right: -8;
+	top: 18px;
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	background-collor: pink;
+	border:  2px solid #f3f3f3;
+}
+@media (max-width800px){
+	.comment p{
+		width: 100%;
+	}
+	.comment.user-comment .info{
+		order: 3;
+		text-align: left;
+	}
+	.comment.user-comment .avatar{
+		order: 2;
+	}
+	.comment.user-comment p{
+		order: 1;
+	}
+	.comment.author-comment{
+		justify-content: flex-start;
+	}
+	.comment-section{
+		margin-top: 10px;
+	}
+	.comment .info{
+		width: auto;
+	}
+	.comment .info a{
+		padding-top: 15px;
+	}
+}

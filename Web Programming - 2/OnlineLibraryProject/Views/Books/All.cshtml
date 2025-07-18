@@ -1,0 +1,23 @@
+﻿@model OnlineLibraryProject.ViewModels.AllBookVM;
+@using static OnlineLibraryProject.Entities.ErrorMessages; 
+@using static OnlineLibraryProject.Entities.Notifications; 
+
+@{ ViewBag.Title = "Всички книги"; }
+
+@if (TempData.ContainsKey(SuccessfullyEditedBookKey))
+{
+<div class="alert alert-success text-center" role="alert">
+    @TempData[SuccessfullyEditedBookKey]
+</div>}
+@if (TempData.ContainsKey(SuccessfullyDeletedBookKey))
+{
+<div class="alert alert-success text-center" role="alert">
+    @TempData[SuccessfullyDeletedBookKey]
+</div>}
+@if (TempData.ContainsKey(UnsuccessfullyDeletedBookKey))
+{
+<div class="alert alert-danger text-center" role="alert">
+    @TempData[UnsuccessfullyDeletedBookKey]
+</div>}
+
+<partial name="_BooksListingPartial" model="@Model" />

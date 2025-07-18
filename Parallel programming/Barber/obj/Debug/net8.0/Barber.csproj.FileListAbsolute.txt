@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Parallel programming\Barber\bin\Debug\net8.0\Barber.exe
+C:\Users\user\Desktop\Parallel programming\Barber\bin\Debug\net8.0\Barber.deps.json
+C:\Users\user\Desktop\Parallel programming\Barber\bin\Debug\net8.0\Barber.runtimeconfig.json
+C:\Users\user\Desktop\Parallel programming\Barber\bin\Debug\net8.0\Barber.dll
+C:\Users\user\Desktop\Parallel programming\Barber\bin\Debug\net8.0\Barber.pdb
+C:\Users\user\Desktop\Parallel programming\Barber\obj\Debug\net8.0\Barber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Parallel programming\Barber\obj\Debug\net8.0\Barber.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Parallel programming\Barber\obj\Debug\net8.0\Barber.AssemblyInfo.cs
+C:\Users\user\Desktop\Parallel programming\Barber\obj\Debug\net8.0\Barber.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Parallel programming\Barber\obj\Debug\net8.0\Barber.sourcelink.json
+C:\Users\user\Desktop\Parallel programming\Barber\obj\Debug\net8.0\Barber.dll
+C:\Users\user\Desktop\Parallel programming\Barber\obj\Debug\net8.0\refint\Barber.dll
+C:\Users\user\Desktop\Parallel programming\Barber\obj\Debug\net8.0\Barber.pdb
+C:\Users\user\Desktop\Parallel programming\Barber\obj\Debug\net8.0\Barber.genruntimeconfig.cache
+C:\Users\user\Desktop\Parallel programming\Barber\obj\Debug\net8.0\ref\Barber.dll

@@ -1,0 +1,26 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(10,1): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(17,3): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(34,3): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(42,1): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(51,1): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(59,1): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(123,3): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(165,1): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(172,1): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(183,3): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(195,3): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(216,1): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(223,1): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(231,3): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(238,1): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(246,1): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(254,3): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(262,1): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(270,1): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(279,3): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(535,3): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(550,3): warning C4102: 'return': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(683,1): warning C4102: 'third': unreferenced label
+C:\Users\user\source\repos\ассеmbly10\Source.cpp(714,1): warning C4102: 'return': unreferenced label
+  ассеmbly10.vcxproj -> C:\Users\user\source\repos\ассеmbly10\Debug\ассеmbly10.exe

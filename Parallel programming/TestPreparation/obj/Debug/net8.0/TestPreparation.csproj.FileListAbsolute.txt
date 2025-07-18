@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Parallel programming\TestPreparation\bin\Debug\net8.0\TestPreparation.exe
+C:\Users\user\Desktop\Parallel programming\TestPreparation\bin\Debug\net8.0\TestPreparation.deps.json
+C:\Users\user\Desktop\Parallel programming\TestPreparation\bin\Debug\net8.0\TestPreparation.runtimeconfig.json
+C:\Users\user\Desktop\Parallel programming\TestPreparation\bin\Debug\net8.0\TestPreparation.dll
+C:\Users\user\Desktop\Parallel programming\TestPreparation\bin\Debug\net8.0\TestPreparation.pdb
+C:\Users\user\Desktop\Parallel programming\TestPreparation\obj\Debug\net8.0\TestPreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Parallel programming\TestPreparation\obj\Debug\net8.0\TestPreparation.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Parallel programming\TestPreparation\obj\Debug\net8.0\TestPreparation.AssemblyInfo.cs
+C:\Users\user\Desktop\Parallel programming\TestPreparation\obj\Debug\net8.0\TestPreparation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Parallel programming\TestPreparation\obj\Debug\net8.0\TestPreparation.sourcelink.json
+C:\Users\user\Desktop\Parallel programming\TestPreparation\obj\Debug\net8.0\TestPreparation.dll
+C:\Users\user\Desktop\Parallel programming\TestPreparation\obj\Debug\net8.0\refint\TestPreparation.dll
+C:\Users\user\Desktop\Parallel programming\TestPreparation\obj\Debug\net8.0\TestPreparation.pdb
+C:\Users\user\Desktop\Parallel programming\TestPreparation\obj\Debug\net8.0\TestPreparation.genruntimeconfig.cache
+C:\Users\user\Desktop\Parallel programming\TestPreparation\obj\Debug\net8.0\ref\TestPreparation.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DThreadCancellation/1.0.0": {
+        "runtime": {
+          "DThreadCancellation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DThreadCancellation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

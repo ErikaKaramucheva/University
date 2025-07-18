@@ -1,0 +1,37 @@
+package fmi.CourseWork18;
+
+import java.io.IOException;
+import java.util.Iterator;
+
+import org.apache.hadoop.io.DoubleWritable;
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapred.MapReduceBase;
+import org.apache.hadoop.mapred.OutputCollector;
+import org.apache.hadoop.mapred.Reducer;
+import org.apache.hadoop.mapred.Reporter;
+
+public class PercentReducer extends MapReduceBase implements Reducer<Text, DoubleWritable, Text, DoubleWritable> {
+
+	@Override
+	public void reduce(Text key, Iterator<DoubleWritable> values, OutputCollector<Text, DoubleWritable> output,
+			Reporter reporter) throws IOException {
+		double total = 0;
+		double organic = 0;
+		while (values.hasNext()) {
+			total += 1;
+			if (values.next().get() == 1) {
+				organic += 1;
+			}
+		}
+//		System.out.println("Total: "+total);
+//		System.out.println("Oragnic: "+organic);
+		DoubleWritable percent = new DoubleWritable(0);
+		if (total > 0) {
+			percent = new DoubleWritable((organic / total) * 100);
+		}
+		if(percent.get() != 0.0) {
+		output.collect(key, percent);}
+
+	}
+
+}

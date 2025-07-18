@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GTaskCompletionSource/1.0.0": {
+        "runtime": {
+          "GTaskCompletionSource.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GTaskCompletionSource/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

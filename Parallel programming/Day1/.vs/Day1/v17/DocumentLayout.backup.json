@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Parallel programming\\Day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2FB5163-14DE-46C6-BB8A-58202B445BD0}|..\\Thread Priority\\Thread Priority.csproj|c:\\users\\user\\desktop\\parallel programming\\thread priority\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04FA8331-3C6F-4561-9DD9-CF65D23EE395}|..\\Task 7\\Task 7.csproj|c:\\users\\user\\desktop\\parallel programming\\task 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB5FA66-CC36-4EDF-8493-35BEFF190A1C}|..\\Task 6\\Task 6.csproj|c:\\users\\user\\desktop\\parallel programming\\task 6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Parallel programming\\Thread Priority\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Thread Priority\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Parallel programming\\Thread Priority\\Program.cs",
+              "RelativeToolTip": "..\\Thread Priority\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:31:33.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Parallel programming\\Task 7\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task 7\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Parallel programming\\Task 7\\Program.cs",
+              "RelativeToolTip": "..\\Task 7\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:19:39.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Parallel programming\\Task 6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Task 6\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Parallel programming\\Task 6\\Program.cs",
+              "RelativeToolTip": "..\\Task 6\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T17:00:25.643Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

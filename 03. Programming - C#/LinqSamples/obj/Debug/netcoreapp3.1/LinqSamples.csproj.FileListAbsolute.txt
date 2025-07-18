@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\LinqSamples\bin\Debug\netcoreapp3.1\LinqSamples.exe
+C:\Users\user\source\repos\LinqSamples\bin\Debug\netcoreapp3.1\LinqSamples.deps.json
+C:\Users\user\source\repos\LinqSamples\bin\Debug\netcoreapp3.1\LinqSamples.runtimeconfig.json
+C:\Users\user\source\repos\LinqSamples\bin\Debug\netcoreapp3.1\LinqSamples.runtimeconfig.dev.json
+C:\Users\user\source\repos\LinqSamples\bin\Debug\netcoreapp3.1\LinqSamples.dll
+C:\Users\user\source\repos\LinqSamples\bin\Debug\netcoreapp3.1\LinqSamples.pdb
+C:\Users\user\source\repos\LinqSamples\obj\Debug\netcoreapp3.1\LinqSamples.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LinqSamples\obj\Debug\netcoreapp3.1\LinqSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LinqSamples\obj\Debug\netcoreapp3.1\LinqSamples.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LinqSamples\obj\Debug\netcoreapp3.1\LinqSamples.AssemblyInfo.cs
+C:\Users\user\source\repos\LinqSamples\obj\Debug\netcoreapp3.1\LinqSamples.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LinqSamples\obj\Debug\netcoreapp3.1\LinqSamples.dll
+C:\Users\user\source\repos\LinqSamples\obj\Debug\netcoreapp3.1\LinqSamples.pdb
+C:\Users\user\source\repos\LinqSamples\obj\Debug\netcoreapp3.1\LinqSamples.genruntimeconfig.cache

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Parallel programming\\MultiLevelParkingGarageSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55BD2C88-E45C-488F-A277-1B6E835AFB96}|MultiLevelParkingGarageSimulation.csproj|c:\\users\\user\\desktop\\parallel programming\\multilevelparkinggaragesimulation\\parkinggarage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BD2C88-E45C-488F-A277-1B6E835AFB96}|MultiLevelParkingGarageSimulation.csproj|solutionrelative:parkinggarage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BD2C88-E45C-488F-A277-1B6E835AFB96}|MultiLevelParkingGarageSimulation.csproj|c:\\users\\user\\desktop\\parallel programming\\multilevelparkinggaragesimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BD2C88-E45C-488F-A277-1B6E835AFB96}|MultiLevelParkingGarageSimulation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55BD2C88-E45C-488F-A277-1B6E835AFB96}|MultiLevelParkingGarageSimulation.csproj|c:\\users\\user\\desktop\\parallel programming\\multilevelparkinggaragesimulation\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55BD2C88-E45C-488F-A277-1B6E835AFB96}|MultiLevelParkingGarageSimulation.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParkingGarage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Parallel programming\\MultiLevelParkingGarageSimulation\\ParkingGarage.cs",
+              "RelativeDocumentMoniker": "ParkingGarage.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Parallel programming\\MultiLevelParkingGarageSimulation\\ParkingGarage.cs*",
+              "RelativeToolTip": "ParkingGarage.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:47:58.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Parallel programming\\MultiLevelParkingGarageSimulation\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Parallel programming\\MultiLevelParkingGarageSimulation\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:45:09.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Parallel programming\\MultiLevelParkingGarageSimulation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Parallel programming\\MultiLevelParkingGarageSimulation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:39:06.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

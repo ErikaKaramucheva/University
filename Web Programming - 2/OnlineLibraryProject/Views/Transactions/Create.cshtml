@@ -1,0 +1,51 @@
+﻿@model OnlineLibraryProject.ViewModels.AddTransactionVM;
+@using static OnlineLibraryProject.Entities.Notifications; 
+@using OnlineLibraryProject.Entities;
+@{
+    ViewData["Title"] = "Добави книга към Моята библиотека";
+}
+}
+@if (TempData.ContainsKey(SuccessfullyAddedTransactionKey))
+{
+    <div class="alert alert-success text-center" role="alert">
+        @TempData[SuccessfullyAddedTransactionKey]
+    </div>}
+@if (TempData.ContainsKey(UnsuccessfullyAddTransactionKey))
+{
+    <div class="alert alert-success text-center" role="alert">
+        @TempData[UnsuccessfullyAddTransactionKey]
+    </div>}
+
+
+<h1>Добави книга към Моята библиотека</h1>
+<hr />
+@if (Model.Books?.Count() >= 1)
+{
+
+    <div class="row">
+        <div class="col-sm-12 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6">
+            <form method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group text-center">
+                    <label asp-for="BookId">
+                        Избери книга
+                    </label>
+                    <select asp-for="BookId" class="form-control">
+                        @foreach (var book in Model.Books)
+                        {
+                            <option value="@book.Id">@book.Title</option>
+                        }
+                    </select>
+                    <span asp-validation-for="BookId" class="small text-danger"></span>
+                    <br />
+                    <input class="btn btn-outline-info offset-md-4" type="submit" value="Добави" />
+
+                </div>
+            </form>
+        </div>
+    </div>}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

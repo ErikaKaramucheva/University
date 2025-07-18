@@ -1,0 +1,15 @@
+D:\users\fmi\Desktop\parallel_programming\url_parser\url_parser\bin\Debug\net7.0\url_parser.exe
+D:\users\fmi\Desktop\parallel_programming\url_parser\url_parser\bin\Debug\net7.0\url_parser.deps.json
+D:\users\fmi\Desktop\parallel_programming\url_parser\url_parser\bin\Debug\net7.0\url_parser.runtimeconfig.json
+D:\users\fmi\Desktop\parallel_programming\url_parser\url_parser\bin\Debug\net7.0\url_parser.dll
+D:\users\fmi\Desktop\parallel_programming\url_parser\url_parser\bin\Debug\net7.0\url_parser.pdb
+D:\users\fmi\Desktop\parallel_programming\url_parser\url_parser\obj\Debug\net7.0\url_parser.csproj.AssemblyReference.cache
+D:\users\fmi\Desktop\parallel_programming\url_parser\url_parser\obj\Debug\net7.0\url_parser.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\parallel_programming\url_parser\url_parser\obj\Debug\net7.0\url_parser.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\parallel_programming\url_parser\url_parser\obj\Debug\net7.0\url_parser.AssemblyInfo.cs
+D:\users\fmi\Desktop\parallel_programming\url_parser\url_parser\obj\Debug\net7.0\url_parser.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\parallel_programming\url_parser\url_parser\obj\Debug\net7.0\url_parser.dll
+D:\users\fmi\Desktop\parallel_programming\url_parser\url_parser\obj\Debug\net7.0\refint\url_parser.dll
+D:\users\fmi\Desktop\parallel_programming\url_parser\url_parser\obj\Debug\net7.0\url_parser.pdb
+D:\users\fmi\Desktop\parallel_programming\url_parser\url_parser\obj\Debug\net7.0\url_parser.genruntimeconfig.cache
+D:\users\fmi\Desktop\parallel_programming\url_parser\url_parser\obj\Debug\net7.0\ref\url_parser.dll

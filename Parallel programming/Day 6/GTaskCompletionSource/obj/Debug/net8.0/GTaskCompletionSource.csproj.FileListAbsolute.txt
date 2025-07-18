@@ -1,0 +1,14 @@
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 6\GTaskCompletionSource\bin\Debug\net8.0\GTaskCompletionSource.exe
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 6\GTaskCompletionSource\bin\Debug\net8.0\GTaskCompletionSource.deps.json
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 6\GTaskCompletionSource\bin\Debug\net8.0\GTaskCompletionSource.runtimeconfig.json
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 6\GTaskCompletionSource\bin\Debug\net8.0\GTaskCompletionSource.dll
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 6\GTaskCompletionSource\bin\Debug\net8.0\GTaskCompletionSource.pdb
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 6\GTaskCompletionSource\obj\Debug\net8.0\GTaskCompletionSource.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 6\GTaskCompletionSource\obj\Debug\net8.0\GTaskCompletionSource.AssemblyInfoInputs.cache
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 6\GTaskCompletionSource\obj\Debug\net8.0\GTaskCompletionSource.AssemblyInfo.cs
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 6\GTaskCompletionSource\obj\Debug\net8.0\GTaskCompletionSource.csproj.CoreCompileInputs.cache
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 6\GTaskCompletionSource\obj\Debug\net8.0\GTaskCompletionSource.dll
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 6\GTaskCompletionSource\obj\Debug\net8.0\refint\GTaskCompletionSource.dll
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 6\GTaskCompletionSource\obj\Debug\net8.0\GTaskCompletionSource.pdb
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 6\GTaskCompletionSource\obj\Debug\net8.0\GTaskCompletionSource.genruntimeconfig.cache
+C:\Projects\Lectures\2024-2025\Parallel Programming\Day 6\GTaskCompletionSource\obj\Debug\net8.0\ref\GTaskCompletionSource.dll

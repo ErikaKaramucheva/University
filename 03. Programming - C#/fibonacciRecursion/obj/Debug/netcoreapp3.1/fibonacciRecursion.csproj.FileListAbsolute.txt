@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\fibonacciRecursion\obj\Debug\netcoreapp3.1\fibonacciRecursion.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\fibonacciRecursion\obj\Debug\netcoreapp3.1\fibonacciRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\fibonacciRecursion\obj\Debug\netcoreapp3.1\fibonacciRecursion.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\fibonacciRecursion\obj\Debug\netcoreapp3.1\fibonacciRecursion.AssemblyInfo.cs
+C:\Users\user\source\repos\fibonacciRecursion\obj\Debug\netcoreapp3.1\fibonacciRecursion.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\fibonacciRecursion\bin\Debug\netcoreapp3.1\fibonacciRecursion.exe
+C:\Users\user\source\repos\fibonacciRecursion\bin\Debug\netcoreapp3.1\fibonacciRecursion.deps.json
+C:\Users\user\source\repos\fibonacciRecursion\bin\Debug\netcoreapp3.1\fibonacciRecursion.runtimeconfig.json
+C:\Users\user\source\repos\fibonacciRecursion\bin\Debug\netcoreapp3.1\fibonacciRecursion.runtimeconfig.dev.json
+C:\Users\user\source\repos\fibonacciRecursion\bin\Debug\netcoreapp3.1\fibonacciRecursion.dll
+C:\Users\user\source\repos\fibonacciRecursion\bin\Debug\netcoreapp3.1\fibonacciRecursion.pdb
+C:\Users\user\source\repos\fibonacciRecursion\obj\Debug\netcoreapp3.1\fibonacciRecursion.dll
+C:\Users\user\source\repos\fibonacciRecursion\obj\Debug\netcoreapp3.1\fibonacciRecursion.pdb
+C:\Users\user\source\repos\fibonacciRecursion\obj\Debug\netcoreapp3.1\fibonacciRecursion.genruntimeconfig.cache

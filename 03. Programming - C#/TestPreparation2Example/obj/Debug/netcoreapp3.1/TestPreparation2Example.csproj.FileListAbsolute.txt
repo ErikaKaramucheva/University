@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\TestPreparation2Example\bin\Debug\netcoreapp3.1\TestPreparation2Example.exe
+C:\Users\user\source\repos\TestPreparation2Example\bin\Debug\netcoreapp3.1\TestPreparation2Example.deps.json
+C:\Users\user\source\repos\TestPreparation2Example\bin\Debug\netcoreapp3.1\TestPreparation2Example.runtimeconfig.json
+C:\Users\user\source\repos\TestPreparation2Example\bin\Debug\netcoreapp3.1\TestPreparation2Example.runtimeconfig.dev.json
+C:\Users\user\source\repos\TestPreparation2Example\bin\Debug\netcoreapp3.1\TestPreparation2Example.dll
+C:\Users\user\source\repos\TestPreparation2Example\bin\Debug\netcoreapp3.1\TestPreparation2Example.pdb
+C:\Users\user\source\repos\TestPreparation2Example\obj\Debug\netcoreapp3.1\TestPreparation2Example.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\TestPreparation2Example\obj\Debug\netcoreapp3.1\TestPreparation2Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\TestPreparation2Example\obj\Debug\netcoreapp3.1\TestPreparation2Example.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TestPreparation2Example\obj\Debug\netcoreapp3.1\TestPreparation2Example.AssemblyInfo.cs
+C:\Users\user\source\repos\TestPreparation2Example\obj\Debug\netcoreapp3.1\TestPreparation2Example.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TestPreparation2Example\obj\Debug\netcoreapp3.1\TestPreparation2Example.dll
+C:\Users\user\source\repos\TestPreparation2Example\obj\Debug\netcoreapp3.1\TestPreparation2Example.pdb
+C:\Users\user\source\repos\TestPreparation2Example\obj\Debug\netcoreapp3.1\TestPreparation2Example.genruntimeconfig.cache

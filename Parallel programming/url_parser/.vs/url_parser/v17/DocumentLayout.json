@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\University\\Parallel programming\\url_parser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54428EA7-1C89-4BA6-8217-E08F056DA112}|url_parser\\url_parser.csproj|c:\\users\\user\\desktop\\university\\parallel programming\\url_parser\\url_parser\\urls_bestpc.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{54428EA7-1C89-4BA6-8217-E08F056DA112}|url_parser\\url_parser.csproj|solutionrelative:url_parser\\urls_bestpc.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54428EA7-1C89-4BA6-8217-E08F056DA112}|url_parser\\url_parser.csproj|c:\\users\\user\\desktop\\university\\parallel programming\\url_parser\\url_parser\\urls_emag.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{54428EA7-1C89-4BA6-8217-E08F056DA112}|url_parser\\url_parser.csproj|solutionrelative:url_parser\\urls_emag.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54428EA7-1C89-4BA6-8217-E08F056DA112}|url_parser\\url_parser.csproj|c:\\users\\user\\desktop\\university\\parallel programming\\url_parser\\url_parser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54428EA7-1C89-4BA6-8217-E08F056DA112}|url_parser\\url_parser.csproj|solutionrelative:url_parser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "urls_emag.txt",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\University\\Parallel programming\\url_parser\\url_parser\\urls_emag.txt",
+              "RelativeDocumentMoniker": "url_parser\\urls_emag.txt",
+              "ToolTip": "C:\\Users\\user\\Desktop\\University\\Parallel programming\\url_parser\\url_parser\\urls_emag.txt",
+              "RelativeToolTip": "url_parser\\urls_emag.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-13T07:54:54.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "urls_bestpc.txt",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\University\\Parallel programming\\url_parser\\url_parser\\urls_bestpc.txt",
+              "RelativeDocumentMoniker": "url_parser\\urls_bestpc.txt",
+              "ToolTip": "C:\\Users\\user\\Desktop\\University\\Parallel programming\\url_parser\\url_parser\\urls_bestpc.txt",
+              "RelativeToolTip": "url_parser\\urls_bestpc.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-13T07:54:54.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\University\\Parallel programming\\url_parser\\url_parser\\Program.cs",
+              "RelativeDocumentMoniker": "url_parser\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\University\\Parallel programming\\url_parser\\url_parser\\Program.cs",
+              "RelativeToolTip": "url_parser\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T07:54:54.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

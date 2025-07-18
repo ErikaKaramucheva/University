@@ -1,0 +1,37 @@
+﻿@model OnlineLibraryProject.ViewModels.AddGenreVM;
+@using static OnlineLibraryProject.Entities.Notifications;
+
+@{ ViewBag.Title = "Добави жанр"; }
+
+<div asp-validation-summary="All" class="text-danger"></div>
+
+@if (TempData.ContainsKey(SuccessfullyAddedGenreKey))
+{
+<div class="alert alert-success text-center" role="alert">
+    @TempData[SuccessfullyAddedGenreKey]
+</div>}
+<div class="row ">
+    <div class="col-sm-12 offset-lg-2 col-lg-8 offset-xl-3 col-xl-6">
+        <h2 class="heading-margin text-center">@ViewBag.Title</h2>
+        <form method="post">
+            <div class="form-group text-center">
+                <label asp-for="Name">Име</label>
+                <input asp-for="Name" class="form-control">
+                <span asp-validation-for="Name" class="small text-danger"></span>
+            </div>
+            <div class="text-muted text-center" style="padding: 5px">
+
+            </div>
+            <input class="btn btn-outline-info text-center offset-md-5" type="submit" value="Добави" />
+            <a asp-controller="Books"
+               asp-action="All"
+               class="btn btn-outline-danger" style="margin: 5px">
+                Отказ
+            </a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

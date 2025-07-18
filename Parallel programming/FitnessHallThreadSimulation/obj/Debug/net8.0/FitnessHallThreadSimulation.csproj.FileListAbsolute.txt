@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Parallel programming\FitnessHallThreadSimulation\bin\Debug\net8.0\FitnessHallThreadSimulation.exe
+C:\Users\user\Desktop\Parallel programming\FitnessHallThreadSimulation\bin\Debug\net8.0\FitnessHallThreadSimulation.deps.json
+C:\Users\user\Desktop\Parallel programming\FitnessHallThreadSimulation\bin\Debug\net8.0\FitnessHallThreadSimulation.runtimeconfig.json
+C:\Users\user\Desktop\Parallel programming\FitnessHallThreadSimulation\bin\Debug\net8.0\FitnessHallThreadSimulation.dll
+C:\Users\user\Desktop\Parallel programming\FitnessHallThreadSimulation\bin\Debug\net8.0\FitnessHallThreadSimulation.pdb
+C:\Users\user\Desktop\Parallel programming\FitnessHallThreadSimulation\obj\Debug\net8.0\FitnessHallThreadSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Parallel programming\FitnessHallThreadSimulation\obj\Debug\net8.0\FitnessHallThreadSimulation.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Parallel programming\FitnessHallThreadSimulation\obj\Debug\net8.0\FitnessHallThreadSimulation.AssemblyInfo.cs
+C:\Users\user\Desktop\Parallel programming\FitnessHallThreadSimulation\obj\Debug\net8.0\FitnessHallThreadSimulation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Parallel programming\FitnessHallThreadSimulation\obj\Debug\net8.0\FitnessHallThreadSimulation.sourcelink.json
+C:\Users\user\Desktop\Parallel programming\FitnessHallThreadSimulation\obj\Debug\net8.0\FitnessHallThreadSimulation.dll
+C:\Users\user\Desktop\Parallel programming\FitnessHallThreadSimulation\obj\Debug\net8.0\refint\FitnessHallThreadSimulation.dll
+C:\Users\user\Desktop\Parallel programming\FitnessHallThreadSimulation\obj\Debug\net8.0\FitnessHallThreadSimulation.pdb
+C:\Users\user\Desktop\Parallel programming\FitnessHallThreadSimulation\obj\Debug\net8.0\FitnessHallThreadSimulation.genruntimeconfig.cache
+C:\Users\user\Desktop\Parallel programming\FitnessHallThreadSimulation\obj\Debug\net8.0\ref\FitnessHallThreadSimulation.dll

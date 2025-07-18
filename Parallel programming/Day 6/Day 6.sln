@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AConsumerProducerRevisited", "AConsumerProducerRevisited\AConsumerProducerRevisited.csproj", "{D9517999-6C20-4A20-AC5B-E1FA4460BF78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTaskWaiting", "BTaskWaiting\BTaskWaiting.csproj", "{3374CAD2-EE7A-453F-BD20-3216F40191D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTaskResults", "CTaskResults\CTaskResults.csproj", "{32E07280-CE10-4B7F-926D-ACC2C5855857}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTasksErrors", "DTasksErrors\DTasksErrors.csproj", "{D6A558A3-2102-40EA-80B5-D755FD139E45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETaskContinuation", "ETaskContinuation\ETaskContinuation.csproj", "{3706AB1A-E6CD-4412-831B-B080D7A4F75F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FLongRunningTasks", "FLongRunningTasks\FLongRunningTasks.csproj", "{9A384F65-BB83-4539-9803-9FA7C5AF5600}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTaskCompletionSource", "GTaskCompletionSource\GTaskCompletionSource.csproj", "{B16E817D-8678-4D24-A89C-E19832ABF74A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9517999-6C20-4A20-AC5B-E1FA4460BF78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9517999-6C20-4A20-AC5B-E1FA4460BF78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9517999-6C20-4A20-AC5B-E1FA4460BF78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9517999-6C20-4A20-AC5B-E1FA4460BF78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3374CAD2-EE7A-453F-BD20-3216F40191D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3374CAD2-EE7A-453F-BD20-3216F40191D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3374CAD2-EE7A-453F-BD20-3216F40191D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3374CAD2-EE7A-453F-BD20-3216F40191D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32E07280-CE10-4B7F-926D-ACC2C5855857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32E07280-CE10-4B7F-926D-ACC2C5855857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32E07280-CE10-4B7F-926D-ACC2C5855857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32E07280-CE10-4B7F-926D-ACC2C5855857}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A558A3-2102-40EA-80B5-D755FD139E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A558A3-2102-40EA-80B5-D755FD139E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A558A3-2102-40EA-80B5-D755FD139E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A558A3-2102-40EA-80B5-D755FD139E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3706AB1A-E6CD-4412-831B-B080D7A4F75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3706AB1A-E6CD-4412-831B-B080D7A4F75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3706AB1A-E6CD-4412-831B-B080D7A4F75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3706AB1A-E6CD-4412-831B-B080D7A4F75F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A384F65-BB83-4539-9803-9FA7C5AF5600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A384F65-BB83-4539-9803-9FA7C5AF5600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A384F65-BB83-4539-9803-9FA7C5AF5600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A384F65-BB83-4539-9803-9FA7C5AF5600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B16E817D-8678-4D24-A89C-E19832ABF74A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16E817D-8678-4D24-A89C-E19832ABF74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16E817D-8678-4D24-A89C-E19832ABF74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16E817D-8678-4D24-A89C-E19832ABF74A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

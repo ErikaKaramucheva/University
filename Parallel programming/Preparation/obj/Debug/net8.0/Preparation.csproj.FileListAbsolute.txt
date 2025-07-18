@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Parallel programming\Preparation\bin\Debug\net8.0\Preparation.exe
+C:\Users\user\Desktop\Parallel programming\Preparation\bin\Debug\net8.0\Preparation.deps.json
+C:\Users\user\Desktop\Parallel programming\Preparation\bin\Debug\net8.0\Preparation.runtimeconfig.json
+C:\Users\user\Desktop\Parallel programming\Preparation\bin\Debug\net8.0\Preparation.dll
+C:\Users\user\Desktop\Parallel programming\Preparation\bin\Debug\net8.0\Preparation.pdb
+C:\Users\user\Desktop\Parallel programming\Preparation\obj\Debug\net8.0\Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Parallel programming\Preparation\obj\Debug\net8.0\Preparation.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Parallel programming\Preparation\obj\Debug\net8.0\Preparation.AssemblyInfo.cs
+C:\Users\user\Desktop\Parallel programming\Preparation\obj\Debug\net8.0\Preparation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Parallel programming\Preparation\obj\Debug\net8.0\Preparation.sourcelink.json
+C:\Users\user\Desktop\Parallel programming\Preparation\obj\Debug\net8.0\Preparation.dll
+C:\Users\user\Desktop\Parallel programming\Preparation\obj\Debug\net8.0\refint\Preparation.dll
+C:\Users\user\Desktop\Parallel programming\Preparation\obj\Debug\net8.0\Preparation.pdb
+C:\Users\user\Desktop\Parallel programming\Preparation\obj\Debug\net8.0\Preparation.genruntimeconfig.cache
+C:\Users\user\Desktop\Parallel programming\Preparation\obj\Debug\net8.0\ref\Preparation.dll
