@@ -120,3 +120,8 @@ Coursework materials for the topic "University App", including:
 - Monte Carlo Simulation.
 
 ---
+## 🌐 Trio - Interactive Internship (Drupal)
+A web project developed using **Drupal CMS** and hosted on **Pantheon.io**, a cloud platform optimized for Drupal and WordPress. Used custom and contributed modules. Created custom content types, views, and blocks.
+ - https://dev-pu-fmi-auto-blog.pantheonsite.io/ - Auto Blog
+ - https://dev-my-recipe-blog.pantheonsite.io/ - Recipe Blog
+   
