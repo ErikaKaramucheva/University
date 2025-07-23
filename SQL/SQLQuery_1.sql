@@ -1,0 +1,32 @@
+create table book(
+    id int,
+bookName varchar(55),
+authorName varchar(55),
+year int
+);
+insert into book(id,bookName,authorName,year)VALUES (1,'Harry Potter','JK Rowling',2007);
+insert into book(id,bookName,authorName,year)VALUES (2,'I feel bad about my neck','Nora Ephron',2006);
+insert into book(id,bookName,authorName,year)VALUES(3,'Broken glass','Alain Mabanckou',2005);
+insert into book(id,bookName,authorName,year)VALUES(4,'The girl with the dragon tatoo','Stieg Larsson',2005);
+insert into book(id,bookName,authorName,year)VALUES(5,'Harry Potter and the Goblet of Fire','JK Rowling',2000);
+insert into book(id,bookName,authorName,year) VALUES(6,'A little life','Hanya Yanagihara',2015);
+insert into book(id,bookName,authorName,year)VALUES(7,'Chronicles:Volume one','Bob Dylan',2004);
+insert into book(id,bookName,authorName,year)VALUES(8,'The tripping Point','Malcoln Gladwell',2000);
+insert into book(id,bookName,authorName,year)VALUES(9,'Darkmans','Nicola Barker',2007);
+insert into book(id,bookName,authorName,year)VALUES(10,'The Siege','Helen Dunmore',2001);
+insert into book(id,bookName,authorName,year)VALUES(11,'Light','M John Harrison',2002);
+insert into book(id,bookName,authorName,year)VALUES(12,'Visitation','Jenny Erpenbeck',2008);
+insert into book(id,bookName,authorName,year)VALUES(13,'Bad Blood','Lorna Sage',2000);
+insert into book(id,bookName,authorName,year)VALUES(14,'Noughts&Crosses','Malorie lackman',2001);
+insert into book(id,bookName,authorName,year)VALUES(15,'Priestdaddy','Patricia Lockwood',2017);
+insert into book(id,bookName,authorName,year)VALUES(16,'Adults in the room','Yanis Varoufakis',2017);
+insert into book(id,bookName,authorName,year) VALUES(17,'The God Delusion','Richard Dawkins',2006);
+insert into book(id,bookName,authorName,year)VALUES(18,'The Cost of Living','Deborah Levy',2018);
+insert into book(id,bookName,authorName,year)VALUES(19,'Tell me how it ends','Valeria Luiselli',2016);
+insert into book(id,bookName,authorName,year)VALUES(20,'Harvest','Jim Crace',2013);
+insert into book(id,bookName,authorName,year)VALUES(21,'Coraline','Neil Gaiman',2002);
+insert into book(id,bookName,authorName,year)VALUES(22,'Stories of your life and others','Ted Chiang',2002);
+insert into book(id,bookName,authorName,year)VALUES(23,'The Spirit Level','Richard Wilkinson',2009);
+insert into book(id,bookName,authorName,year)VALUES(24,'The fifth season','NK Jemisin',2015);
+insert into book(id,bookName,authorName,year)VALUES(25,'Signs preceding the end of the world','Yuri Herrera',2009);
+

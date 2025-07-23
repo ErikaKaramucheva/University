@@ -1,0 +1,6 @@
+[submodule "ScaleFocus Internship/ScaleFocus Internship/Appointment-management-be"]
+	path = ScaleFocus Internship/ScaleFocus Internship/Appointment-management-be
+	url = https://github.com/InsertNicknameHere00/Appointment-management-be.git
+[submodule "ScaleFocus Internship/03. Programming - C#/Homework- Memory Game"]
+	path = "ScaleFocus Internship/03. Programming - C#/Homework- Memory Game"
+	url = https://github.com/ErikaKaramucheva/Memory-Game.git

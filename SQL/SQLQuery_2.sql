@@ -1,0 +1,2 @@
+USE BOOKS;
+SELECT * FROM book WHERE year=2000;
