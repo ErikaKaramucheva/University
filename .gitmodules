@@ -4,3 +4,12 @@
 [submodule "ScaleFocus Internship/03. Programming - C#/Homework- Memory Game"]
 	path = "ScaleFocus Internship/03. Programming - C#/Homework- Memory Game"
 	url = https://github.com/ErikaKaramucheva/Memory-Game.git
+[submodule "03. Programming - C#/Homework- Memory game"]
+	path = "03. Programming - C#/Homework- Memory game"
+	url = https://github.com/ErikaKaramucheva/Memory-Game.git
+[submodule "03. Programming - C#/Homework2-OOP"]
+	path = "03. Programming - C#/Homework2-OOP"
+	url = https://github.com/ErikaKaramucheva/Garden.git
+[submodule "ScaleFocus Internship/Appointment-management"]
+	path = ScaleFocus Internship/Appointment-management
+	url = https://github.com/InsertNicknameHere00/Appointment-management-be.git
