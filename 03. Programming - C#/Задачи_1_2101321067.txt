@@ -1,0 +1,275 @@
+//1.
+ class Program
+    {
+        public static void addElementsInArray(int[] arr)
+        {
+            for(int i = 0; i < arr.Length; i++)
+            {
+                Console.WriteLine("Enter an integer: ");
+                arr[i] = int.Parse(Console.ReadLine());
+            }
+        }
+
+        public static void findSum(int[] arr)
+        {
+            int sum = 0;
+            for (int i = 0; i < arr.Length; i++)
+            {
+                sum += arr[i];
+            }
+            Console.WriteLine("The sum of the first N numbers is: " + sum) ;
+        }
+
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter an integer between 0 and 20:");
+            int number = int.Parse(Console.ReadLine());
+
+            if(number<0 || number > 20)
+            {
+                Console.WriteLine("Invalid number. Enter a whole number between 0 and 20:");
+                number = int.Parse(Console.ReadLine());
+            }
+
+            int[] arr = new int[number];
+
+            addElementsInArray(arr);
+            findSum(arr);
+        }
+
+//2.
+class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter the length of the array: ");
+            int size = int.Parse(Console.ReadLine());
+
+             int[] arr = generateArrayWithRandomNumbers(size);
+             returnTheMostCommonNumber(arr);
+        }
+
+        public static int[] generateArrayWithRandomNumbers(int size)
+           {
+               int[] arr = new int[size];
+               Random rand = new Random();
+
+               Console.WriteLine("We generated an array: ");
+               for (int i = 0; i < arr.Length; i++)
+               {
+                   arr[i] = rand.Next(10, 99);
+                   Console.WriteLine(arr[i]) ;
+               }
+               return arr;
+    }
+
+        public static void returnTheMostCommonNumber(int[] arr)
+        {
+            int tempNumber=arr[0];
+            int frequentNumber=arr[0];
+            int countOfMostCommonNumber = 0;
+         
+            for (int i = 0; i < arr.Length; i++)
+            {
+                
+                int countOfCurrentElement = 0;
+                for (int j = 0; j<arr.Length; j++)
+                {
+                    if (arr[i] == arr[j])
+                    {
+                        tempNumber = arr[i];
+                        countOfCurrentElement++;
+                    }
+                }
+                if (countOfCurrentElement > countOfMostCommonNumber)
+                {
+                    countOfMostCommonNumber = countOfCurrentElement;
+                    frequentNumber=tempNumber;
+                }
+            }
+
+            if (countOfMostCommonNumber == 1|| countOfMostCommonNumber==0)
+            {
+                Console.WriteLine("We didn't find same numbers in this array.");
+            }
+            else
+            {
+                Console.WriteLine("The most common number in this array is: " + frequentNumber);
+                Console.WriteLine("We found it " + countOfMostCommonNumber + " times.");
+            }
+        }
+    }
+
+//3.
+ class Program
+    {
+        static void Main(string[] args)
+        {
+            int size = int.Parse(Console.ReadLine());
+            int[,] matrix = new int[size,size];
+
+            for (int i = 0; i < matrix.GetLength(0); i++)
+            {
+                for (int j = 0; j < matrix.GetLength(1); j++)
+                {
+                    Console.WriteLine("Enetr an integer between 1 and 20: ");
+                    matrix[i, j] = int.Parse(Console.ReadLine());
+                    while(matrix[i,j]<1|| matrix[i, j]>20)
+                    {
+                        Console.WriteLine("The number must be between 1 and 20.");
+                        matrix[i, j] = int.Parse(Console.ReadLine());
+                    }
+                }
+            }
+
+            if (isMagic(matrix,size) == false)
+            {
+                Console.WriteLine("This is not a magic square.");
+            }
+            else
+            {
+                Console.WriteLine("This is a magic square.");
+            }
+     
+
+        }
+
+        public static bool isMagic(int[,] matrix, int size)
+        {
+
+            int sumd1 = 0;
+            int sumd2 = 0;
+
+            for (int i = 0; i < size; i++)
+            {
+             
+                sumd1 = sumd1 + matrix[i, i];
+                sumd2 = sumd2 + matrix[i, size - 1 - i];
+            }
+            if (sumd1 != sumd2)
+                return false;
+
+            for (int i = 0; i < size; i++)
+            {
+
+                int rowSum = 0, colSum = 0;
+                for (int j = 0; j < size; j++)
+                {
+                    rowSum += matrix[i, j];
+                    colSum += matrix[j, i];
+                }
+                if (rowSum != colSum || colSum != sumd1)
+                    return false;
+            }
+
+            return true;
+        }
+    }
+
+//4. //without recursion
+class Program
+    {
+        static void Main(string[] args)
+        {
+            double[] arr = new double[9];
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.WriteLine("Enter a number between -99.99...99.99");
+                arr[i] = double.Parse(Console.ReadLine());
+                //validation
+                if (arr[i] < -99.99 || arr[i] > 99.99)
+                {
+                    Console.WriteLine("You have entered a number outside the specified range. " +
+                        "Please enter another between -99.99 and 99.99");
+                    arr[i] = double.Parse(Console.ReadLine());
+                }
+            }
+            bool grow = isGrowing(arr);
+            if (grow == false)
+            {
+                Console.WriteLine("This series is not monotonically growing.");
+            }
+            else
+            {
+                Console.WriteLine("This series is monotonically growing.");
+
+            }
+           
+        }
+        
+
+        public static bool isGrowing(double[] arr)
+        {
+            bool flag = false;
+            
+            for (int i = 0; i < arr.Length-1; i++)
+            {
+                if (arr[i] <= arr[i + 1])
+                {
+                    flag = true;
+                }
+                else
+                {
+                    flag = false;
+                    break;
+                }
+            }
+            return flag;
+        }
+
+    }
+
+//5.
+ class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter an integer between 10 and 100010: ");
+            int number = int.Parse(Console.ReadLine());
+
+            for(int i=number+1;i<100;i++) 
+                {
+                bool isPrime = true;
+                for (int j = 2; j < Math.Sqrt(i); j++)
+                    {
+                        if (i % j == 0)
+                        {
+                            isPrime = false;
+                            break;
+                        }
+                    }
+
+                    if (isPrime == true)
+                    {
+                        Console.WriteLine("The nearest major prime number is: " + i);
+                        break;
+                    }
+                }
+            }
+
+ }
+
+//6.
+class Program
+    {
+        static void Main(string[] args)
+        {
+           
+
+            Console.WriteLine("Enter a number between 10 and 10010: ");
+            int number = int.Parse(Console.ReadLine());
+            int sum = returnSum(number);
+            Console.WriteLine(sum);
+        }
+
+        public static int returnSum(int number)
+        {
+            if (number < 10)
+            {
+                return number;
+            }
+            int sum = number % 10;
+            number /=10;
+            return sum+returnSum(number);
+        }
+    }
